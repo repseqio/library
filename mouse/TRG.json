@@ -1,0 +1,218 @@
+[ {
+  "taxonId": 10090,
+  "speciesNames": [ "mmu", "mouse", "musmus", "musmusculus" ],
+  "genes": [ {
+    "baseSequence": "nuccore://NG_007033.1",
+    "name": "TCRG-V1*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRG" ],
+    "anchorPoints": {
+      "UTR5Begin": 162374,
+      "L1Begin": 162474,
+      "VIntronBegin": 162517,
+      "L2Begin": 162609,
+      "FR1Begin": 162614,
+      "CDR1Begin": 162692,
+      "FR2Begin": 162716,
+      "CDR2Begin": 162764,
+      "FR3Begin": 162782,
+      "CDR3Begin": 162896,
+      "VEnd": 162913
+    }
+  }, {
+    "baseSequence": "nuccore://NG_007033.1",
+    "name": "TCRG-V3*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRG" ],
+    "anchorPoints": {
+      "UTR5Begin": 65203,
+      "L1Begin": 65303,
+      "VIntronBegin": 65349,
+      "L2Begin": 65453,
+      "FR1Begin": 65458,
+      "CDR1Begin": 65536,
+      "FR2Begin": 65560,
+      "CDR2Begin": 65611,
+      "FR3Begin": 65629,
+      "CDR3Begin": 65743,
+      "VEnd": 65760
+    }
+  }, {
+    "baseSequence": "nuccore://NG_007033.1",
+    "name": "TCRG-V4*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRG" ],
+    "anchorPoints": {
+      "UTR5Begin": 7339,
+      "L1Begin": 7439,
+      "VIntronBegin": 7551,
+      "L2Begin": 7658,
+      "FR1Begin": 7663,
+      "CDR1Begin": 7741,
+      "FR2Begin": 7765,
+      "CDR2Begin": 7816,
+      "FR3Begin": 7834,
+      "CDR3Begin": 7948,
+      "VEnd": 7965
+    }
+  }, {
+    "baseSequence": "nuccore://NG_007033.1",
+    "name": "TCRG-V5*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRG" ],
+    "anchorPoints": {
+      "UTR5Begin": 14636,
+      "L1Begin": 14736,
+      "VIntronBegin": 14779,
+      "L2Begin": 14886,
+      "FR1Begin": 14891,
+      "CDR1Begin": 14969,
+      "FR2Begin": 14993,
+      "CDR2Begin": 15044,
+      "FR3Begin": 15056,
+      "CDR3Begin": 15167,
+      "VEnd": 15184
+    }
+  }, {
+    "baseSequence": "nuccore://NG_007033.1",
+    "name": "TCRG-V6*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRG" ],
+    "anchorPoints": {
+      "UTR5Begin": 12726,
+      "L1Begin": 12826,
+      "VIntronBegin": 12920,
+      "L2Begin": 13076,
+      "FR1Begin": 13081,
+      "CDR1Begin": 13159,
+      "FR2Begin": 13186,
+      "CDR2Begin": 13237,
+      "FR3Begin": 13258,
+      "CDR3Begin": 13372,
+      "VEnd": 13388
+    }
+  }, {
+    "baseSequence": "nuccore://NG_007033.1",
+    "name": "TCRG-V7*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRG" ],
+    "anchorPoints": {
+      "UTR5Begin": 400,
+      "L1Begin": 500,
+      "VIntronBegin": 543,
+      "L2Begin": 644,
+      "FR1Begin": 655,
+      "CDR1Begin": 733,
+      "FR2Begin": 748,
+      "CDR2Begin": 799,
+      "FR3Begin": 823,
+      "CDR3Begin": 934,
+      "VEnd": 951
+    }
+  }, {
+    "baseSequence": "nuccore://NG_007033.1",
+    "name": "TRGV2*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRG" ],
+    "anchorPoints": {
+      "L2Begin": 159485,
+      "VEnd": 159031
+    }
+  }, {
+    "baseSequence": "nuccore://NG_007033.1",
+    "name": "TRGJ1*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRG" ],
+    "anchorPoints": {
+      "JBegin": 32801,
+      "FR4Begin": 32827,
+      "FR4End": 32861
+    }
+  }, {
+    "baseSequence": "nuccore://NG_007033.1",
+    "name": "TRGJ2*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRG" ],
+    "anchorPoints": {
+      "JBegin": 133763,
+      "FR4Begin": 133737,
+      "FR4End": 133703
+    }
+  }, {
+    "baseSequence": "nuccore://NG_007033.1",
+    "name": "TRGJ3*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRG" ],
+    "anchorPoints": {
+      "JBegin": 79575,
+      "FR4Begin": 79601,
+      "FR4End": 79635
+    }
+  }, {
+    "baseSequence": "nuccore://NG_007033.1",
+    "name": "TRGJ4*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRG" ],
+    "anchorPoints": {
+      "JBegin": 164610,
+      "FR4Begin": 164637,
+      "FR4End": 164671
+    }
+  }, {
+    "baseSequence": "nuccore://NG_007033.1",
+    "name": "TCRG-C1*00",
+    "geneType": "C",
+    "isFunctional": true,
+    "chains": [ "TRG" ],
+    "anchorPoints": {
+      "CBegin": 36561,
+      "CExon1End": 36891,
+      "CEnd": 39077
+    }
+  }, {
+    "baseSequence": "nuccore://NG_007033.1",
+    "name": "TCRG-C2*00",
+    "geneType": "C",
+    "isFunctional": true,
+    "chains": [ "TRG" ],
+    "anchorPoints": {
+      "CBegin": 130010,
+      "CExon1End": 129680,
+      "CEnd": 127518
+    }
+  }, {
+    "baseSequence": "nuccore://NG_007033.1",
+    "name": "TCRG-C3*00",
+    "geneType": "C",
+    "isFunctional": true,
+    "chains": [ "TRG" ],
+    "anchorPoints": {
+      "CBegin": 83343,
+      "CExon1End": 83783,
+      "CEnd": 85856
+    }
+  }, {
+    "baseSequence": "nuccore://NG_007033.1",
+    "name": "TCRG-C4*00",
+    "geneType": "C",
+    "isFunctional": true,
+    "chains": [ "TRG" ],
+    "anchorPoints": {
+      "CBegin": 167016,
+      "CExon1End": 167346,
+      "CEnd": 174802
+    }
+  } ],
+  "sequenceFragments": [ ]
+} ]

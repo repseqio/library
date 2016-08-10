@@ -1,0 +1,161 @@
+[ {
+  "taxonId": 10090,
+  "speciesNames": [ "mmu", "mouse", "musmus", "musmusculus" ],
+  "genes": [ {
+    "baseSequence": "nuccore://NG_004051.1",
+    "name": "IGLC1*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "IGL" ],
+    "anchorPoints": {
+      "L2Begin": 199273,
+      "VEnd": 199593
+    }
+  }, {
+    "baseSequence": "nuccore://NG_004051.1",
+    "name": "IGLV1*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "IGL" ],
+    "anchorPoints": {
+      "UTR5Begin": 175784,
+      "L1Begin": 175884,
+      "VIntronBegin": 175930,
+      "L2Begin": 176023,
+      "FR1Begin": 176034,
+      "CDR1Begin": 176109,
+      "FR2Begin": 176136,
+      "CDR2Begin": 176187,
+      "FR3Begin": 176196,
+      "CDR3Begin": 176301,
+      "VEnd": 176328
+    }
+  }, {
+    "baseSequence": "nuccore://NG_004051.1",
+    "name": "IGLV2*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "IGL" ],
+    "anchorPoints": {
+      "UTR5Begin": 400,
+      "L1Begin": 500,
+      "VIntronBegin": 546,
+      "L2Begin": 639,
+      "FR1Begin": 650,
+      "CDR1Begin": 725,
+      "FR2Begin": 752,
+      "CDR2Begin": 803,
+      "FR3Begin": 812,
+      "CDR3Begin": 917,
+      "VEnd": 942
+    }
+  }, {
+    "baseSequence": "nuccore://NG_004051.1",
+    "name": "IGLV3*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "IGL" ],
+    "anchorPoints": {
+      "UTR5Begin": 19565,
+      "L1Begin": 19665,
+      "VIntronBegin": 19711,
+      "L2Begin": 19814,
+      "FR1Begin": 19825,
+      "CDR1Begin": 19900,
+      "FR2Begin": 19921,
+      "CDR2Begin": 19972,
+      "FR3Begin": 19993,
+      "CDR3Begin": 20098,
+      "VEnd": 20137
+    }
+  }, {
+    "baseSequence": "nuccore://NG_004051.1",
+    "name": "IGLJ1*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "IGL" ],
+    "anchorPoints": {
+      "JBegin": 198082,
+      "FR4Begin": 198092,
+      "FR4End": 198120
+    }
+  }, {
+    "baseSequence": "nuccore://NG_004051.1",
+    "name": "IGLJ2*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "IGL" ],
+    "anchorPoints": {
+      "JBegin": 61109,
+      "FR4Begin": 61119,
+      "FR4End": 61147
+    }
+  }, {
+    "baseSequence": "nuccore://NG_004051.1",
+    "name": "IGLJ3*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "IGL" ],
+    "anchorPoints": {
+      "JBegin": 194266,
+      "FR4Begin": 194276,
+      "FR4End": 194304
+    }
+  }, {
+    "baseSequence": "nuccore://NG_004051.1",
+    "name": "IGLJ3P*00",
+    "geneType": "J",
+    "isFunctional": false,
+    "chains": [ "IGL" ],
+    "anchorPoints": {
+      "JBegin": 194936,
+      "FR4Begin": 194948,
+      "FR4End": 194974
+    }
+  }, {
+    "baseSequence": "nuccore://NG_004051.1",
+    "name": "IGLJ4*00",
+    "geneType": "J",
+    "isFunctional": false,
+    "chains": [ "IGL" ],
+    "anchorPoints": {
+      "JBegin": 64808,
+      "FR4Begin": 64818,
+      "FR4End": 64850
+    }
+  }, {
+    "baseSequence": "nuccore://NG_004051.1",
+    "name": "IGLC2*00",
+    "geneType": "C",
+    "isFunctional": true,
+    "chains": [ "IGL" ],
+    "anchorPoints": {
+      "CBegin": 62492,
+      "CExon1End": 62809,
+      "CEnd": 62809
+    }
+  }, {
+    "baseSequence": "nuccore://NG_004051.1",
+    "name": "IGLC3*00",
+    "geneType": "C",
+    "isFunctional": true,
+    "chains": [ "IGL" ],
+    "anchorPoints": {
+      "CBegin": 195663,
+      "CExon1End": 195980,
+      "CEnd": 195980
+    }
+  }, {
+    "baseSequence": "nuccore://NG_004051.1",
+    "name": "IGLC4*00",
+    "geneType": "C",
+    "isFunctional": false,
+    "chains": [ "IGL" ],
+    "anchorPoints": {
+      "CBegin": 66032,
+      "CExon1End": 66346,
+      "CEnd": 66346
+    }
+  } ],
+  "sequenceFragments": [ ]
+} ]
