@@ -2216,7 +2216,7 @@
     "anchorPoints": {
       "JBegin": 957872,
       "FR4Begin": 957893,
-      "FR4End": 957924
+      "FR4End": 957926
     }
   }, {
     "baseSequence": "nuccore://NG_001019.5",
@@ -2227,7 +2227,7 @@
     "anchorPoints": {
       "JBegin": 957653,
       "FR4Begin": 957674,
-      "FR4End": 957705
+      "FR4End": 957707
     }
   }, {
     "baseSequence": "nuccore://NG_001019.5",
@@ -2238,7 +2238,7 @@
     "anchorPoints": {
       "JBegin": 958079,
       "FR4Begin": 958101,
-      "FR4End": 958132
+      "FR4End": 958134
     }
   }, {
     "baseSequence": "nuccore://NG_001019.5",
@@ -2249,7 +2249,7 @@
     "anchorPoints": {
       "JBegin": 958478,
       "FR4Begin": 958501,
-      "FR4End": 958536
+      "FR4End": 958538
     }
   }, {
     "baseSequence": "nuccore://NG_001019.5",
@@ -2260,7 +2260,7 @@
     "anchorPoints": {
       "JBegin": 958694,
       "FR4Begin": 958713,
-      "FR4End": 958744
+      "FR4End": 958746
     }
   }, {
     "baseSequence": "nuccore://NG_001019.5",
@@ -2271,7 +2271,7 @@
     "anchorPoints": {
       "JBegin": 959865,
       "FR4Begin": 959885,
-      "FR4End": 959914
+      "FR4End": 959916
     }
   }, {
     "baseSequence": "nuccore://NG_001019.5",
@@ -2282,7 +2282,7 @@
     "anchorPoints": {
       "JBegin": 959068,
       "FR4Begin": 959085,
-      "FR4End": 959116
+      "FR4End": 959118
     }
   }, {
     "baseSequence": "nuccore://NG_001019.5",
@@ -2293,7 +2293,7 @@
     "anchorPoints": {
       "JBegin": 959466,
       "FR4Begin": 959486,
-      "FR4End": 959517
+      "FR4End": 959519
     }
   }, {
     "baseSequence": "nuccore://NG_001019.5",
@@ -2304,7 +2304,7 @@
     "anchorPoints": {
       "JBegin": 960070,
       "FR4Begin": 960102,
-      "FR4End": 960133
+      "FR4End": 960135
     }
   }, {
     "baseSequence": "nuccore://NG_001019.5",
