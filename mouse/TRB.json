@@ -156,6 +156,12 @@
     "chains": [ "TRB" ],
     "anchorPoints": {
       "L2Begin": 201140,
+      "FR1Begin": 201145,
+      "CDR1Begin": 201223,
+      "FR2Begin": 201238,
+      "CDR2Begin": 201289,
+      "FR3Begin": 201307,
+      "CDR3Begin": 201415,
       "VEnd": 201434
     }
   }, {

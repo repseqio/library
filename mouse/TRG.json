@@ -123,6 +123,12 @@
     "chains": [ "TRG" ],
     "anchorPoints": {
       "L2Begin": 159485,
+      "FR1Begin": 159333,
+      "CDR1Begin": 159255,
+      "FR2Begin": 159231,
+      "CDR2Begin": 159180,
+      "FR3Begin": 159162,
+      "CDR3Begin": 159048,
       "VEnd": 159031
     }
   }, {

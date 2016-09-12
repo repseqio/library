@@ -1,6 +1,6 @@
 [ {
   "taxonId": 9606,
-  "speciesNames": [ "hs", "hsa", "human", "homsap", "homosapiens" ],
+  "speciesNames": [ "homosapiens", "homsap", "hs", "hsa", "human" ],
   "genes": [ {
     "baseSequence": "nuccore://NG_000834.1",
     "name": "IGKV1-5*00",
@@ -370,6 +370,7 @@
     "chains": [ "IGK" ],
     "anchorPoints": {
       "L2Begin": 206469,
+      "FR1Begin": 206469,
       "CDR1Begin": 206514,
       "FR2Begin": 206547,
       "CDR2Begin": 206598,
@@ -499,6 +500,12 @@
     "chains": [ "IGK" ],
     "anchorPoints": {
       "L2Begin": 46169,
+      "FR1Begin": 46169,
+      "CDR1Begin": 46205,
+      "FR2Begin": 46238,
+      "CDR2Begin": 46289,
+      "FR3Begin": 46298,
+      "CDR3Begin": 46403,
       "VEnd": 46403
     }
   }, {
@@ -509,6 +516,12 @@
     "chains": [ "IGK" ],
     "anchorPoints": {
       "L2Begin": 31484,
+      "FR1Begin": 31484,
+      "CDR1Begin": 31502,
+      "FR2Begin": 31535,
+      "CDR2Begin": 31586,
+      "FR3Begin": 31595,
+      "CDR3Begin": 31700,
       "VEnd": 31724
     }
   }, {

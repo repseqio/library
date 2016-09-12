@@ -1,6 +1,6 @@
 [ {
   "taxonId": 9606,
-  "speciesNames": [ "hs", "hsa", "human", "homsap", "homosapiens" ],
+  "speciesNames": [ "homosapiens", "homsap", "hs", "hsa", "human" ],
   "genes": [ {
     "baseSequence": "nuccore://NG_000002.1",
     "name": "IGLV1-36*00",
@@ -142,6 +142,12 @@
     "chains": [ "IGL" ],
     "anchorPoints": {
       "L2Begin": 65115,
+      "FR1Begin": 65126,
+      "CDR1Begin": 65201,
+      "FR2Begin": 65228,
+      "CDR2Begin": 65279,
+      "FR3Begin": 65288,
+      "CDR3Begin": 65393,
       "VEnd": 65424
     }
   }, {
@@ -380,6 +386,12 @@
     "chains": [ "IGL" ],
     "anchorPoints": {
       "L2Begin": 816531,
+      "FR1Begin": 816531,
+      "CDR1Begin": 816606,
+      "FR2Begin": 816624,
+      "CDR2Begin": 816663,
+      "FR3Begin": 816672,
+      "CDR3Begin": 816783,
       "VEnd": 816815
     }
   }, {
@@ -572,6 +584,12 @@
     "chains": [ "IGL" ],
     "anchorPoints": {
       "L2Begin": 661244,
+      "FR1Begin": 661255,
+      "CDR1Begin": 661330,
+      "FR2Begin": 661348,
+      "CDR2Begin": 661399,
+      "FR3Begin": 661408,
+      "CDR3Begin": 661507,
       "VEnd": 661539
     }
   }, {
@@ -601,6 +619,12 @@
     "chains": [ "IGL" ],
     "anchorPoints": {
       "L2Begin": 639791,
+      "FR1Begin": 639802,
+      "CDR1Begin": 639877,
+      "FR2Begin": 639895,
+      "CDR2Begin": 639946,
+      "FR3Begin": 639955,
+      "CDR3Begin": 640060,
       "VEnd": 640091
     }
   }, {
@@ -858,6 +882,12 @@
     "chains": [ "IGL" ],
     "anchorPoints": {
       "L2Begin": 428683,
+      "FR1Begin": 428683,
+      "CDR1Begin": 428758,
+      "FR2Begin": 428785,
+      "CDR2Begin": 428836,
+      "FR3Begin": 428845,
+      "CDR3Begin": 428950,
       "VEnd": 428978
     }
   }, {
@@ -1117,6 +1147,12 @@
     "chains": [ "IGL" ],
     "anchorPoints": {
       "L2Begin": 157543,
+      "FR1Begin": 157560,
+      "CDR1Begin": 157617,
+      "FR2Begin": 157644,
+      "CDR2Begin": 157695,
+      "FR3Begin": 157716,
+      "CDR3Begin": 157836,
       "VEnd": 157867
     }
   }, {
@@ -1165,6 +1201,12 @@
     "chains": [ "IGL" ],
     "anchorPoints": {
       "L2Begin": 36879,
+      "FR1Begin": 36890,
+      "CDR1Begin": 36965,
+      "FR2Begin": 36992,
+      "CDR2Begin": 37043,
+      "FR3Begin": 37064,
+      "CDR3Begin": 37175,
       "VEnd": 37206
     }
   }, {

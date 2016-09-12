@@ -66,6 +66,12 @@
     "chains": [ "IGK" ],
     "anchorPoints": {
       "L2Begin": 757073,
+      "FR1Begin": 757080,
+      "CDR1Begin": 757155,
+      "FR2Begin": 757188,
+      "CDR2Begin": 757239,
+      "FR3Begin": 757248,
+      "CDR3Begin": 757353,
       "VEnd": 757379
     }
   }, {
@@ -1738,6 +1744,12 @@
     "chains": [ "IGK" ],
     "anchorPoints": {
       "L2Begin": 2589181,
+      "FR1Begin": 2588917,
+      "CDR1Begin": 2588839,
+      "FR2Begin": 2588803,
+      "CDR2Begin": 2588752,
+      "FR3Begin": 2588743,
+      "CDR3Begin": 2588638,
       "VEnd": 2588612
     }
   }, {
@@ -1767,6 +1779,12 @@
     "chains": [ "IGK" ],
     "anchorPoints": {
       "L2Begin": 2551199,
+      "FR1Begin": 2551186,
+      "CDR1Begin": 2551111,
+      "FR2Begin": 2551075,
+      "CDR2Begin": 2551024,
+      "FR3Begin": 2551015,
+      "CDR3Begin": 2550905,
       "VEnd": 2550879
     }
   }, {
@@ -2320,6 +2338,12 @@
     "chains": [ "IGK" ],
     "anchorPoints": {
       "L2Begin": 1968758,
+      "FR1Begin": 1968758,
+      "CDR1Begin": 1968833,
+      "FR2Begin": 1968851,
+      "CDR2Begin": 1968902,
+      "FR3Begin": 1968911,
+      "CDR3Begin": 1969016,
       "VEnd": 1969036
     }
   }, {
@@ -2653,6 +2677,12 @@
     "chains": [ "IGK" ],
     "anchorPoints": {
       "L2Begin": 236065,
+      "FR1Begin": 236244,
+      "CDR1Begin": 236322,
+      "FR2Begin": 236340,
+      "CDR2Begin": 236391,
+      "FR3Begin": 236400,
+      "CDR3Begin": 236505,
       "VEnd": 236531
     }
   }, {
@@ -2701,6 +2731,12 @@
     "chains": [ "IGK" ],
     "anchorPoints": {
       "L2Begin": 926738,
+      "FR1Begin": 926727,
+      "CDR1Begin": 926649,
+      "FR2Begin": 926631,
+      "CDR2Begin": 926580,
+      "FR3Begin": 926571,
+      "CDR3Begin": 926466,
       "VEnd": 926440
     }
   }, {

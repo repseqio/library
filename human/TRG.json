@@ -1,6 +1,6 @@
 [ {
   "taxonId": 9606,
-  "speciesNames": [ "hs", "hsa", "human", "homsap", "homosapiens" ],
+  "speciesNames": [ "homosapiens", "homsap", "hs", "hsa", "human" ],
   "genes": [ {
     "baseSequence": "nuccore://NG_001336.2",
     "name": "TRGV1*00",
