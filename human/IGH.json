@@ -1364,7 +1364,10 @@
     "isFunctional": true,
     "chains": [ "IGH" ],
     "anchorPoints": {
-      "L2Begin": 193979,
+      "UTR5Begin": 193880,
+      "L1Begin": 193979,
+      "VIntronBegin": 194025,
+      "L2Begin": 194107,
       "FR1Begin": 194118,
       "CDR1Begin": 194193,
       "FR2Begin": 194223,
