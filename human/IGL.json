@@ -1368,7 +1368,7 @@
     "isFunctional": true,
     "chains": [ "IGL" ],
     "anchorPoints": {
-      "CBegin": 872497,
+      "CBegin": 872495,
       "CExon1End": 872815,
       "CEnd": 872815
     }
@@ -1412,7 +1412,7 @@
     "isFunctional": true,
     "chains": [ "IGL" ],
     "anchorPoints": {
-      "CBegin": 888751,
+      "CBegin": 888749,
       "CExon1End": 889069,
       "CEnd": 889069
     }
