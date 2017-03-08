@@ -1737,6 +1737,25 @@
     }
   }, {
     "baseSequence": "nuccore://NG_001332.2",
+    "name": "TRDV3*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 993725,
+      "L1Begin": 993701,
+      "VIntronBegin": 993664,
+      "L2Begin": 993431,
+      "FR1Begin": 993417,
+      "CDR1Begin": 993339,
+      "FR2Begin": 993318,
+      "CDR2Begin": 993267,
+      "FR3Begin": 993252,
+      "CDR3Begin": 993138,
+      "VEnd": 993128
+    }
+  }, {
+    "baseSequence": "nuccore://NG_001332.2",
     "name": "TRDD1*00",
     "geneType": "D",
     "isFunctional": true,
