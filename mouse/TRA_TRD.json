@@ -47,8 +47,8 @@
     "chains": [ "TRA" ],
     "anchorPoints": {
       "UTR5Begin": 153195,
-      "L1Begin": 153295,
-      "VIntronBegin": 153421,
+      "L1Begin": 153240,
+      "VIntronBegin": 153292,
       "L2Begin": 153456,
       "FR1Begin": 153467,
       "CDR1Begin": 153545,
@@ -62,7 +62,7 @@
     "baseSequence": "nuccore://NG_007044.1",
     "name": "TRAV3-2*00",
     "geneType": "V",
-    "isFunctional": true,
+    "isFunctional": false,
     "chains": [ "TRA" ],
     "anchorPoints": {
       "UTR5Begin": 1158904,
@@ -157,7 +157,7 @@
     "baseSequence": "nuccore://NG_007044.1",
     "name": "TRAV3N-2*00",
     "geneType": "V",
-    "isFunctional": true,
+    "isFunctional": false,
     "chains": [ "TRA" ],
     "anchorPoints": {
       "UTR5Begin": 770958,
@@ -315,7 +315,7 @@
       "UTR5Begin": 563322,
       "L1Begin": 563422,
       "VIntronBegin": 563474,
-      "L2Begin": 563646,
+      "L2Begin": 563644,
       "FR1Begin": 563652,
       "CDR1Begin": 563730,
       "FR2Begin": 563745,
@@ -406,7 +406,7 @@
     "anchorPoints": {
       "UTR5Begin": 1276440,
       "L1Begin": 1276540,
-      "VIntronBegin": 1276596,
+      "VIntronBegin": 1276592,
       "L2Begin": 1276757,
       "FR1Begin": 1276768,
       "CDR1Begin": 1276846,
@@ -452,14 +452,14 @@
       "UTR5Begin": 574146,
       "L1Begin": 574246,
       "VIntronBegin": 574298,
-      "L2Begin": 574471,
+      "L2Begin": 574475,
       "FR1Begin": 574486,
       "CDR1Begin": 574564,
       "FR2Begin": 574582,
       "CDR2Begin": 574633,
       "FR3Begin": 574654,
       "CDR3Begin": 574753,
-      "VEnd": 574765
+      "VEnd": 574766
     }
   }, {
     "baseSequence": "nuccore://NG_007044.1",
@@ -496,7 +496,7 @@
     "anchorPoints": {
       "UTR5Begin": 885337,
       "L1Begin": 885437,
-      "VIntronBegin": 885493,
+      "VIntronBegin": 885489,
       "L2Begin": 885665,
       "FR1Begin": 885676,
       "CDR1Begin": 885754,
@@ -573,7 +573,7 @@
       "UTR5Begin": 1026760,
       "L1Begin": 1026860,
       "VIntronBegin": 1026909,
-      "L2Begin": 1027028,
+      "L2Begin": 1027020,
       "FR1Begin": 1027037,
       "CDR1Begin": 1027115,
       "FR2Begin": 1027133,
@@ -630,7 +630,7 @@
       "UTR5Begin": 1282376,
       "L1Begin": 1282476,
       "VIntronBegin": 1282522,
-      "L2Begin": 1282631,
+      "L2Begin": 1282661,
       "FR1Begin": 1282672,
       "CDR1Begin": 1282750,
       "FR2Begin": 1282768,
@@ -668,7 +668,7 @@
       "UTR5Begin": 325831,
       "L1Begin": 325931,
       "VIntronBegin": 325980,
-      "L2Begin": 326089,
+      "L2Begin": 326082,
       "FR1Begin": 326099,
       "CDR1Begin": 326177,
       "FR2Begin": 326195,
@@ -705,7 +705,7 @@
     "anchorPoints": {
       "UTR5Begin": 394355,
       "L1Begin": 394455,
-      "VIntronBegin": 394505,
+      "VIntronBegin": 394501,
       "L2Begin": 394595,
       "FR1Begin": 394606,
       "CDR1Begin": 394684,
@@ -724,8 +724,8 @@
     "anchorPoints": {
       "UTR5Begin": 580065,
       "L1Begin": 580165,
-      "VIntronBegin": 580211,
-      "L2Begin": 580343,
+      "VIntronBegin": 580215,
+      "L2Begin": 580344,
       "FR1Begin": 580351,
       "CDR1Begin": 580429,
       "FR2Begin": 580447,
@@ -743,7 +743,7 @@
     "anchorPoints": {
       "UTR5Begin": 677304,
       "L1Begin": 677404,
-      "VIntronBegin": 677448,
+      "VIntronBegin": 677453,
       "L2Begin": 677586,
       "FR1Begin": 677597,
       "CDR1Begin": 677675,
@@ -762,7 +762,7 @@
     "anchorPoints": {
       "UTR5Begin": 705133,
       "L1Begin": 705233,
-      "VIntronBegin": 705276,
+      "VIntronBegin": 705279,
       "L2Begin": 705373,
       "FR1Begin": 705384,
       "CDR1Begin": 705462,
@@ -801,7 +801,7 @@
       "UTR5Begin": 227250,
       "L1Begin": 227350,
       "VIntronBegin": 227399,
-      "L2Begin": 227575,
+      "L2Begin": 227574,
       "FR1Begin": 227585,
       "CDR1Begin": 227663,
       "FR2Begin": 227681,
@@ -818,16 +818,16 @@
     "chains": [ "TRA" ],
     "anchorPoints": {
       "UTR5Begin": 963066,
-      "L1Begin": 963166,
-      "VIntronBegin": 963215,
-      "L2Begin": 963387,
+      "L1Begin": 963168,
+      "VIntronBegin": 963217,
+      "L2Begin": 963389,
       "FR1Begin": 963400,
       "CDR1Begin": 963478,
       "FR2Begin": 963496,
       "CDR2Begin": 963547,
       "FR3Begin": 963565,
       "CDR3Begin": 963664,
-      "VEnd": 963670
+      "VEnd": 963677
     }
   }, {
     "baseSequence": "nuccore://NG_007044.1",
@@ -876,7 +876,7 @@
     "anchorPoints": {
       "UTR5Begin": 1103219,
       "L1Begin": 1103319,
-      "VIntronBegin": 1103360,
+      "VIntronBegin": 1103368,
       "L2Begin": 1103559,
       "FR1Begin": 1103570,
       "CDR1Begin": 1103648,
@@ -895,13 +895,13 @@
     "anchorPoints": {
       "UTR5Begin": 1289193,
       "L1Begin": 1289293,
-      "VIntronBegin": 1289346,
+      "VIntronBegin": 1289342,
       "L2Begin": 1289537,
       "FR1Begin": 1289548,
       "CDR1Begin": 1289626,
-      "FR2Begin": 1289646,
+      "FR2Begin": 1289644,
       "CDR2Begin": 1289695,
-      "FR3Begin": 1289712,
+      "FR3Begin": 1289713,
       "CDR3Begin": 1289812,
       "VEnd": 1289825
     }
@@ -971,7 +971,7 @@
     "anchorPoints": {
       "UTR5Begin": 408294,
       "L1Begin": 408394,
-      "VIntronBegin": 408435,
+      "VIntronBegin": 408443,
       "L2Begin": 408633,
       "FR1Begin": 408644,
       "CDR1Begin": 408722,
@@ -991,7 +991,7 @@
       "UTR5Begin": 663779,
       "L1Begin": 663879,
       "VIntronBegin": 663928,
-      "L2Begin": 664118,
+      "L2Begin": 664117,
       "FR1Begin": 664128,
       "CDR1Begin": 664206,
       "FR2Begin": 664224,
@@ -1009,7 +1009,7 @@
     "anchorPoints": {
       "UTR5Begin": 719355,
       "L1Begin": 719455,
-      "VIntronBegin": 719496,
+      "VIntronBegin": 719504,
       "L2Begin": 719694,
       "FR1Begin": 719705,
       "CDR1Begin": 719783,
@@ -1028,13 +1028,13 @@
     "anchorPoints": {
       "UTR5Begin": 897109,
       "L1Begin": 897209,
-      "VIntronBegin": 897262,
+      "VIntronBegin": 897258,
       "L2Begin": 897454,
       "FR1Begin": 897465,
       "CDR1Begin": 897543,
-      "FR2Begin": 897563,
+      "FR2Begin": 897561,
       "CDR2Begin": 897612,
-      "FR3Begin": 897629,
+      "FR3Begin": 897630,
       "CDR3Begin": 897729,
       "VEnd": 897742
     }
@@ -1047,7 +1047,7 @@
     "anchorPoints": {
       "UTR5Begin": 1042189,
       "L1Begin": 1042289,
-      "VIntronBegin": 1042312,
+      "VIntronBegin": 1042332,
       "L2Begin": 1042481,
       "FR1Begin": 1042489,
       "CDR1Begin": 1042567,
@@ -1055,7 +1055,7 @@
       "CDR2Begin": 1042633,
       "FR3Begin": 1042654,
       "CDR3Begin": 1042753,
-      "VEnd": 1042765
+      "VEnd": 1042766
     }
   }, {
     "baseSequence": "nuccore://NG_007044.1",
@@ -1262,27 +1262,21 @@
       "CDR1Begin": 556219,
       "FR2Begin": 556237,
       "CDR2Begin": 556288,
-      "FR3Begin": 556304,
-      "CDR3Begin": 556304,
-      "VEnd": 556304
+      "FR3Begin": 556303,
+      "CDR3Begin": 556381,
+      "VEnd": 556394
     }
   }, {
     "baseSequence": "nuccore://NG_007044.1",
     "name": "TRAV9N-1*00",
     "geneType": "V",
-    "isFunctional": true,
+    "isFunctional": false,
     "chains": [ "TRA" ],
     "anchorPoints": {
-      "UTR5Begin": 674234,
-      "L1Begin": 674334,
-      "VIntronBegin": 674380,
+      "UTR5Begin": 674100,
+      "L1Begin": 674238,
+      "VIntronBegin": 674340,
       "L2Begin": 674506,
-      "FR1Begin": 674514,
-      "CDR1Begin": 674592,
-      "FR2Begin": 674610,
-      "CDR2Begin": 674661,
-      "FR3Begin": 674685,
-      "CDR3Begin": 674778,
       "VEnd": 674799
     }
   }, {
@@ -1351,7 +1345,7 @@
     "anchorPoints": {
       "UTR5Begin": 1078223,
       "L1Begin": 1078323,
-      "VIntronBegin": 1078365,
+      "VIntronBegin": 1078375,
       "L2Begin": 1078529,
       "FR1Begin": 1078540,
       "CDR1Begin": 1078618,
@@ -1370,7 +1364,7 @@
     "anchorPoints": {
       "UTR5Begin": 383430,
       "L1Begin": 383530,
-      "VIntronBegin": 383571,
+      "VIntronBegin": 383582,
       "L2Begin": 383739,
       "FR1Begin": 383750,
       "CDR1Begin": 383828,
@@ -1389,7 +1383,7 @@
     "anchorPoints": {
       "UTR5Begin": 694547,
       "L1Begin": 694647,
-      "VIntronBegin": 694688,
+      "VIntronBegin": 694699,
       "L2Begin": 694853,
       "FR1Begin": 694864,
       "CDR1Begin": 694942,
@@ -1441,7 +1435,7 @@
     "baseSequence": "nuccore://NG_007044.1",
     "name": "TRAV11N*00",
     "geneType": "V",
-    "isFunctional": true,
+    "isFunctional": false,
     "chains": [ "TRA" ],
     "anchorPoints": {
       "UTR5Begin": 707555,
@@ -1577,7 +1571,7 @@
       "UTR5Begin": 502222,
       "L1Begin": 502322,
       "VIntronBegin": 502368,
-      "L2Begin": 502520,
+      "L2Begin": 502515,
       "FR1Begin": 502532,
       "CDR1Begin": 502610,
       "FR2Begin": 502631,
@@ -1613,8 +1607,8 @@
     "chains": [ "TRA" ],
     "anchorPoints": {
       "UTR5Begin": 799317,
-      "L1Begin": 799417,
-      "VIntronBegin": 799469,
+      "L1Begin": 799416,
+      "VIntronBegin": 799468,
       "L2Begin": 799642,
       "FR1Begin": 799653,
       "CDR1Begin": 799731,
@@ -1729,8 +1723,8 @@
       "UTR5Begin": 423788,
       "L1Begin": 423888,
       "VIntronBegin": 423940,
-      "L2Begin": 424129,
-      "FR1Begin": 424131,
+      "L2Begin": 424121,
+      "FR1Begin": 424129,
       "CDR1Begin": 424207,
       "FR2Begin": 424222,
       "CDR2Begin": 424273,
@@ -1786,7 +1780,7 @@
       "UTR5Begin": 645196,
       "L1Begin": 645296,
       "VIntronBegin": 645348,
-      "L2Begin": 645523,
+      "L2Begin": 645529,
       "FR1Begin": 645537,
       "CDR1Begin": 645615,
       "FR2Begin": 645630,
@@ -1897,7 +1891,10 @@
     "isFunctional": true,
     "chains": [ "TRA" ],
     "anchorPoints": {
-      "L2Begin": 1213308,
+      "UTR5Begin": 1213158,
+      "L1Begin": 1213257,
+      "VIntronBegin": 1213309,
+      "L2Begin": 1213447,
       "FR1Begin": 1213479,
       "CDR1Begin": 1213557,
       "FR2Begin": 1213575,
@@ -2119,7 +2116,7 @@
       "UTR5Begin": 529261,
       "L1Begin": 529361,
       "VIntronBegin": 529410,
-      "L2Begin": 529641,
+      "L2Begin": 529631,
       "FR1Begin": 529642,
       "CDR1Begin": 529720,
       "FR2Begin": 529741,
@@ -2201,7 +2198,7 @@
     "anchorPoints": {
       "UTR5Begin": 619720,
       "L1Begin": 619820,
-      "VIntronBegin": 619845,
+      "VIntronBegin": 619872,
       "L2Begin": 620054,
       "FR1Begin": 620065,
       "CDR1Begin": 620143,
@@ -2278,7 +2275,7 @@
       "UTR5Begin": 1417755,
       "L1Begin": 1417855,
       "VIntronBegin": 1417907,
-      "L2Begin": 1418072,
+      "L2Begin": 1418055,
       "FR1Begin": 1418081,
       "CDR1Begin": 1418159,
       "FR2Begin": 1418177,
@@ -2315,13 +2312,13 @@
     "anchorPoints": {
       "UTR5Begin": 1448449,
       "L1Begin": 1448549,
-      "VIntronBegin": 1448593,
+      "VIntronBegin": 1448589,
       "L2Begin": 1448998,
       "FR1Begin": 1449009,
       "CDR1Begin": 1449084,
       "FR2Begin": 1449105,
       "CDR2Begin": 1449156,
-      "FR3Begin": 1449169,
+      "FR3Begin": 1449171,
       "CDR3Begin": 1449270,
       "VEnd": 1449286
     }
