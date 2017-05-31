@@ -3027,12 +3027,12 @@
   }, {
     "baseSequence": "nuccore://NG_007044.1",
     "name": "TRDD2*00",
-    "geneType": "V",
+    "geneType": "D",
     "isFunctional": true,
     "chains": [ "TRD" ],
     "anchorPoints": {
-      "L2Begin": 1694759,
-      "VEnd": 1694775
+      "DBegin": 1694759,
+      "DEnd": 1694775
     }
   }, {
     "baseSequence": "nuccore://NG_007044.1",
