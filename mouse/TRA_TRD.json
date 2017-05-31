@@ -2548,7 +2548,7 @@
     "chains": [ "TRA" ],
     "anchorPoints": {
       "JBegin": 1772919,
-      "FR4Begin": 1772949,
+      "FR4Begin": 1772943,
       "FR4End": 1772980
     }
   }, {
@@ -2559,7 +2559,7 @@
     "chains": [ "TRA" ],
     "anchorPoints": {
       "JBegin": 1771974,
-      "FR4Begin": 1772000,
+      "FR4Begin": 1771994,
       "FR4End": 1772032
     }
   }, {
@@ -2790,7 +2790,7 @@
     "chains": [ "TRA" ],
     "anchorPoints": {
       "JBegin": 1748804,
-      "FR4Begin": 1748828,
+      "FR4Begin": 1748829,
       "FR4End": 1748859
     }
   }, {
@@ -2844,8 +2844,8 @@
     "isFunctional": true,
     "chains": [ "TRA" ],
     "anchorPoints": {
-      "JBegin": 1744871,
-      "FR4Begin": 1744901,
+      "JBegin": 1744870,
+      "FR4Begin": 1744900,
       "FR4End": 1744932
     }
   }, {
