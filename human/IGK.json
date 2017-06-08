@@ -534,14 +534,14 @@
       "UTR5Begin": 10678,
       "L1Begin": 10778,
       "VIntronBegin": 10828,
-      "L2Begin": 11197,
+      "L2Begin": 11198,
       "FR1Begin": 11209,
       "CDR1Begin": 11287,
       "FR2Begin": 11323,
       "CDR2Begin": 11374,
       "FR3Begin": 11383,
       "CDR3Begin": 11488,
-      "VEnd": 11512
+      "VEnd": 11514
     }
   }, {
     "baseSequence": "nuccore://NG_000834.1",
