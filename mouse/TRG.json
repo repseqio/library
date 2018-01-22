@@ -122,7 +122,9 @@
     "isFunctional": true,
     "chains": [ "TRG" ],
     "anchorPoints": {
-      "L2Begin": 159485,
+      "L1Begin": 159485,
+      "VIntronBegin": 159442,
+      "L2Begin": 159338,
       "FR1Begin": 159333,
       "CDR1Begin": 159255,
       "FR2Begin": 159231,
