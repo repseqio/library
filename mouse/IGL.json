@@ -3,17 +3,6 @@
   "speciesNames": [ "mmu", "mouse", "musmus", "musmusculus" ],
   "genes": [ {
     "baseSequence": "nuccore://NG_004051.1",
-    "name": "IGLC1*00",
-    "geneType": "C",
-    "isFunctional": true,
-    "chains": [ "IGL" ],
-    "anchorPoints": {
-      "CBegin": 199273,
-      "CExon1End": 199593,
-      "CEnd": 199593
-    }
-  }, {
-    "baseSequence": "nuccore://NG_004051.1",
     "name": "IGLV1*00",
     "geneType": "V",
     "isFunctional": true,
@@ -123,6 +112,17 @@
       "JBegin": 64808,
       "FR4Begin": 64818,
       "FR4End": 64850
+    }
+  }, {
+    "baseSequence": "nuccore://NG_004051.1",
+    "name": "IGLC1*00",
+    "geneType": "C",
+    "isFunctional": true,
+    "chains": [ "IGL" ],
+    "anchorPoints": {
+      "CBegin": 199273,
+      "CExon1End": 199593,
+      "CEnd": 199593
     }
   }, {
     "baseSequence": "nuccore://NG_004051.1",

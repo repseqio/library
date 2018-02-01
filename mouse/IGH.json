@@ -2075,7 +2075,7 @@
     "anchorPoints": {
       "UTR5Begin": 378460,
       "L1Begin": 378360,
-      "VINtronBegin": 378314,
+      "VIntronBegin": 378314,
       "L2Begin": 378216,
       "FR1Begin": 378205,
       "CDR1Begin": 378130,
@@ -3015,7 +3015,7 @@
     "anchorPoints": {
       "UTR5Begin": 1119458,
       "L1Begin": 1119358,
-      "VIntronBegin":1119315,
+      "VIntronBegin": 1119315,
       "L2Begin": 1119234,
       "FR1Begin": 1119223,
       "CDR1Begin": 1119148,
@@ -3086,7 +3086,6 @@
     "isFunctional": true,
     "chains": [ "IGH" ],
     "anchorPoints": {
-      "UTR5Begin": 747502,
       "UTR5Begin": 747402,
       "L1Begin": 747272,
       "VIntronBegin": 747256,
@@ -3106,7 +3105,6 @@
     "isFunctional": true,
     "chains": [ "IGH" ],
     "anchorPoints": {
-      "UTR5Begin": 812877,
       "UTR5Begin": 812777,
       "L1Begin": 812677,
       "VIntronBegin": 812631,

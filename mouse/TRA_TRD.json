@@ -3026,16 +3026,6 @@
     }
   }, {
     "baseSequence": "nuccore://NG_007044.1",
-    "name": "TRDD2*00",
-    "geneType": "D",
-    "isFunctional": true,
-    "chains": [ "TRD" ],
-    "anchorPoints": {
-      "DBegin": 1694759,
-      "DEnd": 1694775
-    }
-  }, {
-    "baseSequence": "nuccore://NG_007044.1",
     "name": "TRDV1*00",
     "geneType": "V",
     "isFunctional": true,
@@ -3148,6 +3138,16 @@
     "anchorPoints": {
       "DBegin": 1686001,
       "DEnd": 1686010
+    }
+  }, {
+    "baseSequence": "nuccore://NG_007044.1",
+    "name": "TRDD2*00",
+    "geneType": "D",
+    "isFunctional": true,
+    "chains": [ "TRD" ],
+    "anchorPoints": {
+      "DBegin": 1694759,
+      "DEnd": 1694775
     }
   }, {
     "baseSequence": "nuccore://NG_007044.1",
