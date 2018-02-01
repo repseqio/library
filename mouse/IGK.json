@@ -786,8 +786,8 @@
       "UTR5Begin": 1990012,
       "L1Begin": 1989912,
       "VIntronBegin": 1989863,
-      "L2Begin": 1989670,
-      "FR1Begin": 1989668,
+      "L2Begin": 1989687,
+      "FR1Begin": 1989670,
       "CDR1Begin": 1989592,
       "FR2Begin": 1989571,
       "CDR2Begin": 1989520,
@@ -803,7 +803,7 @@
     "chains": [ "IGK" ],
     "anchorPoints": {
       "UTR5Begin": 1945878,
-      "L1Begin": 1945778,
+      "L1Begin": 1945806,
       "VIntronBegin": 1945757,
       "L2Begin": 1945582,
       "FR1Begin": 1945565,
@@ -849,8 +849,8 @@
       "FR2Begin": 1908406,
       "CDR2Begin": 1908355,
       "FR3Begin": 1908346,
-      "CDR3Begin": 1908307,
-      "VEnd": 1908307
+      "CDR3Begin": 1908241,
+      "VEnd": 1908213
     }
   }, {
     "baseSequence": "nuccore://NG_005612.1",
@@ -976,7 +976,7 @@
       "UTR5Begin": 1713532,
       "L1Begin": 1713432,
       "VIntronBegin": 1713383,
-      "L2Begin": 1713296,
+      "L2Begin": 1713206,
       "FR1Begin": 1713189,
       "CDR1Begin": 1713111,
       "FR2Begin": 1713096,
@@ -1670,14 +1670,22 @@
       "VEnd": 2742573
     }
   }, {
-    "baseSequence": "nuccore://NG_005612.1",
+    "baseSequence": "nuccore://NC_000072.6",
     "name": "IGKV8-23-1*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "IGK" ],
     "anchorPoints": {
-      "L2Begin": 2685446,
-      "VEnd": 2685730
+      "L1Begin": 70240972,
+      "VIntronBegin": 70240923,
+      "L2Begin": 70240721,
+      "FR1Begin": 70240710,
+      "CDR1Begin": 70240653,
+      "FR2Begin": 70240617,
+      "CDR2Begin": 70240566,
+      "FR3Begin": 70240557,
+      "CDR3Begin": 70240452,
+      "VEnd": 70240427
     }
   }, {
     "baseSequence": "nuccore://NG_005612.1",
@@ -1743,7 +1751,9 @@
     "isFunctional": true,
     "chains": [ "IGK" ],
     "anchorPoints": {
-      "L2Begin": 2589181,
+      "L1Begin": 2589181,
+      "VIntronBegin": 2589132,
+      "L2Begin": 2588928,
       "FR1Begin": 2588917,
       "CDR1Begin": 2588839,
       "FR2Begin": 2588803,
@@ -1834,7 +1844,7 @@
     "anchorPoints": {
       "UTR5Begin": 494902,
       "L1Begin": 495002,
-      "VIntronBegin": 495054,
+      "VIntronBegin": 495057,
       "L2Begin": 495178,
       "FR1Begin": 495189,
       "CDR1Begin": 495267,
@@ -2676,7 +2686,9 @@
     "isFunctional": true,
     "chains": [ "IGK" ],
     "anchorPoints": {
-      "L2Begin": 236065,
+      "L1Begin": 236065,
+      "VIntronBegin": 236120,
+      "L2Begin": 236233,
       "FR1Begin": 236244,
       "CDR1Begin": 236322,
       "FR2Begin": 236340,
@@ -2905,14 +2917,22 @@
       "VEnd": 1181316
     }
   }, {
-    "baseSequence": "nuccore://NG_005612.1",
+    "baseSequence": "nuccore://NC_000072.6",
     "name": "IGKV20-101-2*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "IGK" ],
     "anchorPoints": {
-      "L2Begin": 919907,
-      "VEnd": 920118
+      "L1Begin": 68474612,
+      "VIntronBegin": 68474658,
+      "L2Begin": 68474808,
+      "FR1Begin": 68474819,
+      "CDR1Begin": 68474894,
+      "FR2Begin": 68474912,
+      "CDR2Begin": 68474963,
+      "FR3Begin": 68474972,
+      "CDR3Begin": 68475077,
+      "VEnd": 68475101
     }
   }, {
     "baseSequence": "nuccore://NG_005612.1",

@@ -4,12 +4,13 @@
   "genes": [ {
     "baseSequence": "nuccore://NG_004051.1",
     "name": "IGLC1*00",
-    "geneType": "V",
+    "geneType": "C",
     "isFunctional": true,
     "chains": [ "IGL" ],
     "anchorPoints": {
-      "L2Begin": 199273,
-      "VEnd": 199593
+      "CBegin": 199273,
+      "CExon1End": 199593,
+      "CEnd": 199593
     }
   }, {
     "baseSequence": "nuccore://NG_004051.1",
