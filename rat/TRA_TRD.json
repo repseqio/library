@@ -60,7 +60,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV4D-4*00-1",
+    "name": "TRAV4D-4-1*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -79,7 +79,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV4D-4*00-2",
+    "name": "TRAV4D-4-2*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -98,7 +98,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV4D-4*00-3",
+    "name": "TRAV4D-4-3*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -155,7 +155,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV6-2*00-1",
+    "name": "TRAV6-2-1*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -174,7 +174,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV6-2*00-2",
+    "name": "TRAV6-2-2*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -193,7 +193,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV6-2*00-3",
+    "name": "TRAV6-2-3*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -212,10 +212,10 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV6-7-DV9*00-1",
+    "name": "TRAV6-7-DV9-1*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 30270698,
       "L1Begin": 30270739,
@@ -231,10 +231,10 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV6-7-DV9*00-2",
+    "name": "TRAV6-7-DV9-2*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 31947986,
       "L1Begin": 31948034,
@@ -288,7 +288,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV7-1*00-1",
+    "name": "TRAV7-1-1*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -307,7 +307,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV7-1*00-2",
+    "name": "TRAV7-1-2*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -326,7 +326,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV7-1*00-3",
+    "name": "TRAV7-1-3*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -345,7 +345,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV7-3*00-1",
+    "name": "TRAV7-3-1*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -364,7 +364,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV7-3*00-2",
+    "name": "TRAV7-3-2*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -440,7 +440,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV8D-2*00-1",
+    "name": "TRAV8D-2-1*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -459,7 +459,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV8D-2*00-2",
+    "name": "TRAV8D-2-2*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -478,7 +478,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV9-1*00-1",
+    "name": "TRAV9-1-1*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -497,7 +497,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV9-1*00-2",
+    "name": "TRAV9-1-2*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -516,7 +516,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV9-1*00-3",
+    "name": "TRAV9-1-3*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -535,7 +535,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV9-1*00-4",
+    "name": "TRAV9-1-4*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -554,7 +554,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV9-1*00-5",
+    "name": "TRAV9-1-5*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -573,7 +573,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV9D-2*00-1",
+    "name": "TRAV9D-2-1*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -592,7 +592,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV9D-2*00-2",
+    "name": "TRAV9D-2-2*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -611,7 +611,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV9N-4*00-1",
+    "name": "TRAV9N-4-1*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -630,7 +630,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV9N-4*00-2",
+    "name": "TRAV9N-4-2*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -649,7 +649,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV10N*00-1",
+    "name": "TRAV10N-1*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -668,7 +668,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV10N*00-2",
+    "name": "TRAV10N-2*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -687,7 +687,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV12D-3*00-1",
+    "name": "TRAV12D-3-1*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -706,7 +706,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV12D-3*00-2",
+    "name": "TRAV12D-3-2*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -725,7 +725,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV13-1*00-1",
+    "name": "TRAV13-1-1*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -744,7 +744,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV13-1*00-2",
+    "name": "TRAV13-1-2*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -763,7 +763,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV13-1*00-3",
+    "name": "TRAV13-1-3*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -782,7 +782,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV13-1*00-4",
+    "name": "TRAV13-1-4*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -801,7 +801,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV13D-4*00-1",
+    "name": "TRAV13D-4-1*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -820,7 +820,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV13D-4*00-2",
+    "name": "TRAV13D-4-2*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -839,7 +839,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV13D-4*00-3",
+    "name": "TRAV13D-4-3*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -896,7 +896,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV15N-1*00-1",
+    "name": "TRAV15N-1-1*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -915,7 +915,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV15N-1*00-2",
+    "name": "TRAV15N-1-2*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -934,7 +934,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV15N-1*00-3",
+    "name": "TRAV15N-1-3*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -953,7 +953,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV15N-1*00-4",
+    "name": "TRAV15N-1-4*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -1067,7 +1067,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAV21/DV12*00",
+    "name": "TRAV21-DV12*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -1089,7 +1089,7 @@
     "name": "TRDV1*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 32515189,
       "L1Begin": 32515278,
@@ -1108,7 +1108,7 @@
     "name": "TRDV2*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 32590937,
       "L1Begin": 32590976,
@@ -1179,7 +1179,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAJ11*00-1",
+    "name": "TRAJ11-1*00",
     "geneType": "J",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -1201,7 +1201,7 @@
     }
   }, {
     "baseSequence": "nuccore://NC_005114.4",
-    "name": "TRAJ12*00-1",
+    "name": "TRAJ12-1*00",
     "geneType": "J",
     "isFunctional": true,
     "chains": [ "TRA" ],
