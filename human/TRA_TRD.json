@@ -1708,7 +1708,7 @@
     "name": "TRDV1*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRD" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 619321,
       "L1Begin": 619421,
