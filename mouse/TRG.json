@@ -3,7 +3,7 @@
   "speciesNames": [ "mmu", "mouse", "musmus", "musmusculus" ],
   "genes": [ {
     "baseSequence": "nuccore://NG_007033.1",
-    "name": "TCRG-V1*00",
+    "name": "TRGV1*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRG" ],
@@ -22,7 +22,7 @@
     }
   }, {
     "baseSequence": "nuccore://NG_007033.1",
-    "name": "TCRG-V3*00",
+    "name": "TRGV3*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRG" ],
@@ -41,7 +41,7 @@
     }
   }, {
     "baseSequence": "nuccore://NG_007033.1",
-    "name": "TCRG-V4*00",
+    "name": "TRGV4*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRG" ],
@@ -60,7 +60,7 @@
     }
   }, {
     "baseSequence": "nuccore://NG_007033.1",
-    "name": "TCRG-V5*00",
+    "name": "TRGV5*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRG" ],
@@ -79,7 +79,7 @@
     }
   }, {
     "baseSequence": "nuccore://NG_007033.1",
-    "name": "TCRG-V6*00",
+    "name": "TRGV6*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRG" ],
@@ -98,7 +98,7 @@
     }
   }, {
     "baseSequence": "nuccore://NG_007033.1",
-    "name": "TCRG-V7*00",
+    "name": "TRGV7*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRG" ],

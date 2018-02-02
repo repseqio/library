@@ -240,6 +240,12 @@
       "L1Begin": 426351,
       "VIntronBegin": 426401,
       "L2Begin": 426505,
+      "FR1Begin": 427589,
+      "CDR1Begin": 427667,
+      "FR2Begin": 427685,
+      "CDR2Begin": 427736,
+      "FR3Begin": 427760,
+      "CDR3Begin": 427859,
       "VEnd": 427873
     }
   }, {
@@ -1702,7 +1708,7 @@
     "name": "TRDV1*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRD" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 619321,
       "L1Begin": 619421,
