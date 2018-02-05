@@ -6,7 +6,7 @@
     "name": "TRAV2*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 29003497,
       "L1Begin": 29003661,
@@ -25,7 +25,7 @@
     "name": "TRAV3-4*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 30414584,
       "L1Begin": 30414598,
@@ -44,7 +44,7 @@
     "name": "TRAV3N-3*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 32386718,
       "L1Begin": 32386815,
@@ -63,7 +63,7 @@
     "name": "TRAV4D-4-1*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 29127355,
       "L1Begin": 29127431,
@@ -82,7 +82,7 @@
     "name": "TRAV4D-4-2*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 30429895,
       "L1Begin": 30429973,
@@ -101,7 +101,7 @@
     "name": "TRAV4D-4-3*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 30812499,
       "L1Begin": 30812575,
@@ -120,7 +120,7 @@
     "name": "TRAV5-1*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 29029697,
       "L1Begin": 29029751,
@@ -139,7 +139,7 @@
     "name": "TRAV5N-4*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 31709517,
       "L1Begin": 31709632,
@@ -158,7 +158,7 @@
     "name": "TRAV6-2-1*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 30454239,
       "L1Begin": 30454278,
@@ -177,7 +177,7 @@
     "name": "TRAV6-2-2*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 29085928,
       "L1Begin": 29085948,
@@ -196,7 +196,7 @@
     "name": "TRAV6-2-3*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 29096836,
       "L1Begin": 29096864,
@@ -253,7 +253,7 @@
     "name": "TRAV6D-4*00",
     "geneType": "V",
     "isFunctional": false,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 29040108,
       "L1Begin": 29040143,
@@ -272,7 +272,7 @@
     "name": "TRAV6D-6*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 30550154,
       "L1Begin": 30550201,
@@ -291,7 +291,7 @@
     "name": "TRAV7-1-1*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 29064667,
       "L1Begin": 29064749,
@@ -310,7 +310,7 @@
     "name": "TRAV7-1-2*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 29080577,
       "L1Begin": 29080656,
@@ -329,7 +329,7 @@
     "name": "TRAV7-1-3*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 29157359,
       "L1Begin": 29157473,
@@ -348,7 +348,7 @@
     "name": "TRAV7-3-1*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 30440728,
       "L1Begin": 30440774,
@@ -367,7 +367,7 @@
     "name": "TRAV7-3-2*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 30462617,
       "L1Begin": 30462668,
@@ -386,7 +386,7 @@
     "name": "TRAV7-5*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 32160324,
       "L1Begin": 32160363,
@@ -405,7 +405,7 @@
     "name": "TRAV7-6*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 31951025,
       "L1Begin": 31951105,
@@ -424,7 +424,7 @@
     "name": "TRAV7D-2*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 29108934,
       "L1Begin": 29108980,
@@ -443,7 +443,7 @@
     "name": "TRAV8D-2-1*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 31610636,
       "L1Begin": 31610701,
@@ -462,7 +462,7 @@
     "name": "TRAV8D-2-2*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 31757654,
       "L1Begin": 31757715,
@@ -481,7 +481,7 @@
     "name": "TRAV9-1-1*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 31913588,
       "L1Begin": 31913805,
@@ -500,7 +500,7 @@
     "name": "TRAV9-1-2*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 30675975,
       "L1Begin": 30676226,
@@ -519,7 +519,7 @@
     "name": "TRAV9-1-3*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 32105997,
       "L1Begin": 32106200,
@@ -538,7 +538,7 @@
     "name": "TRAV9-1-4*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 31206758,
       "L1Begin": 31206993,
@@ -557,7 +557,7 @@
     "name": "TRAV9-1-5*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 31308512,
       "L1Begin": 31308642,
@@ -576,7 +576,7 @@
     "name": "TRAV9D-2-1*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 30909853,
       "L1Begin": 30910038,
@@ -595,7 +595,7 @@
     "name": "TRAV9D-2-2*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 31032666,
       "L1Begin": 31032767,
@@ -614,7 +614,7 @@
     "name": "TRAV9N-4-1*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 30612271,
       "L1Begin": 30612408,
@@ -633,7 +633,7 @@
     "name": "TRAV9N-4-2*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 31242961,
       "L1Begin": 31243096,
@@ -652,7 +652,7 @@
     "name": "TRAV10N-1*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 30534877,
       "L1Begin": 30534917,
@@ -671,7 +671,7 @@
     "name": "TRAV10N-2*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 32136700,
       "L1Begin": 32136753,
@@ -690,7 +690,7 @@
     "name": "TRAV12D-3-1*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 31395911,
       "L1Begin": 31395998,
@@ -709,7 +709,7 @@
     "name": "TRAV12D-3-2*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 30750016,
       "L1Begin": 30750092,
@@ -728,7 +728,7 @@
     "name": "TRAV13-1-1*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 30564565,
       "L1Begin": 30564585,
@@ -747,7 +747,7 @@
     "name": "TRAV13-1-2*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 30870391,
       "L1Begin": 30870414,
@@ -766,7 +766,7 @@
     "name": "TRAV13-1-3*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 30776516,
       "L1Begin": 30776533,
@@ -785,7 +785,7 @@
     "name": "TRAV13-1-4*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 32302682,
       "L1Begin": 32302701,
@@ -804,7 +804,7 @@
     "name": "TRAV13D-4-1*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 31484614,
       "L1Begin": 31484633,
@@ -823,7 +823,7 @@
     "name": "TRAV13D-4-2*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 31999879,
       "L1Begin": 31999902,
@@ -842,7 +842,7 @@
     "name": "TRAV13D-4-3*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 32309855,
       "L1Begin": 32309910,
@@ -861,7 +861,7 @@
     "name": "TRAV14-1*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 31097164,
       "L1Begin": 31097290,
@@ -880,7 +880,7 @@
     "name": "TRAV14D-1*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 30785163,
       "L1Begin": 30785247,
@@ -899,7 +899,7 @@
     "name": "TRAV15N-1-1*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 30575090,
       "L1Begin": 30575145,
@@ -918,7 +918,7 @@
     "name": "TRAV15N-1-2*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 30789960,
       "L1Begin": 30790014,
@@ -937,7 +937,7 @@
     "name": "TRAV15N-1-3*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 31812737,
       "L1Begin": 31812785,
@@ -956,7 +956,7 @@
     "name": "TRAV15N-1-4*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 32020007,
       "L1Begin": 32020067,
@@ -975,7 +975,7 @@
     "name": "TRAV15N-2*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 31497463,
       "L1Begin": 31497516,
@@ -994,7 +994,7 @@
     "name": "TRAV16*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 31988946,
       "L1Begin": 31989040,
@@ -1013,7 +1013,7 @@
     "name": "TRAV17*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 32424944,
       "L1Begin": 32425048,
@@ -1032,7 +1032,7 @@
     "name": "TRAV19*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 32469093,
       "L1Begin": 32469191,
@@ -1051,7 +1051,7 @@
     "name": "TRAV20*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 32487700,
       "L1Begin": 32487722,
@@ -1070,7 +1070,7 @@
     "name": "TRAV21-DV12*00",
     "geneType": "V",
     "isFunctional": true,
-    "chains": [ "TRA" ],
+    "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
       "UTR5Begin": 32506493,
       "L1Begin": 32506644,
