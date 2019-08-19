@@ -419,6 +419,32 @@
       "VEnd": 396723
     }
   }, {
+    "baseSequence": "nuccore://NW_008358636.1",
+    "name": "TRBV32",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRB" ],
+    "anchorPoints": {
+      "UTR5Begin": 397272,
+      "L1Begin": 397326,
+      "VIntronBegin": 397378,
+      "L2Begin": 397459,
+      "VEnd": 397772
+    }
+  }, {
+    "baseSequence": "nuccore://NW_008358636.1",
+    "name": "TRBV33",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRB" ],
+    "anchorPoints": {
+      "UTR5Begin": 465933,
+      "L1Begin": 466085,
+      "VIntronBegin": 466100,
+      "L2Begin": 466324,
+      "VEnd": 466573
+    }
+  }, {
     "baseSequence": "nuccore://NW_008333818.1",
     "name": "TRBV30*00",
     "geneType": "V",
@@ -458,7 +484,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008333818.1",
-    "name": "TRBD1",
+    "name": "TRBD1*00",
     "geneType": "D",
     "isFunctional": true,
     "chains": [ "TRB" ],
@@ -468,13 +494,33 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008333818.1",
-    "name": "TRBD2",
+    "name": "TRBD2-1*00",
     "geneType": "D",
     "isFunctional": true,
     "chains": [ "TRB" ],
     "anchorPoints": {
       "DBegin": 168197,
       "DEnd": 168211
+    }
+  },{
+    "baseSequence": "nuccore://NW_008333818.1",
+    "name": "TRBD2-2*00",
+    "geneType": "D",
+    "isFunctional": true,
+    "chains": [ "TRB" ],
+    "anchorPoints": {
+      "DBegin": 168361,
+      "DEnd": 168374
+    }
+  },{
+    "baseSequence": "nuccore://NW_008333818.1",
+    "name": "TRBD2-3*00",
+    "geneType": "D",
+    "isFunctional": true,
+    "chains": [ "TRB" ],
+    "anchorPoints": {
+      "DBegin": 167291,
+      "DEnd": 167304
     }
   }, {
     "baseSequence": "nuccore://NW_008333818.1",
@@ -599,6 +645,17 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008333818.1",
+    "name": "TRBJ2-6*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRB" ],
+    "anchorPoints": {
+      "JBegin": 169919,
+      "FR4Begin": 169932,
+      "FR4End": 169960
+    }
+  }, {
+    "baseSequence": "nuccore://NW_008333818.1",
     "name": "TRBJ2-7*00",
     "geneType": "J",
     "isFunctional": true,
@@ -607,58 +664,6 @@
       "JBegin": 170131,
       "FR4Begin": 170149,
       "FR4End": 170177
-    }
-  }, {
-    "baseSequence": "nuccore://NW_008333818.1",
-    "name": "TRBJ13",
-    "geneType": "J",
-    "isFunctional": true,
-    "chains": [ "TRB" ],
-    "anchorPoints": {
-      "JBegin": 184189,
-      "FR4End": 184224
-    }
-  }, {
-    "baseSequence": "nuccore://NW_008333818.1",
-    "name": "TRBJ14",
-    "geneType": "J",
-    "isFunctional": true,
-    "chains": [ "TRB" ],
-    "anchorPoints": {
-      "JBegin": 169908,
-      "FR4End": 169960
-    }
-  }, {
-    "baseSequence": "nuccore://NW_008333818.1",
-    "name": "TRBJ15",
-    "geneType": "J",
-    "isFunctional": true,
-    "chains": [ "TRB" ],
-    "anchorPoints": {
-      "JBegin": 172473,
-      "FR4End": 172523
-    }
-  }, {
-    "baseSequence": "nuccore://NW_008333818.1",
-    "name": "TRBJ16",
-    "geneType": "J",
-    "isFunctional": true,
-    "chains": [ "TRB" ],
-    "anchorPoints": {
-      "JBegin": 184211,
-      "FR4Begin": 184179,
-      "FR4End": 184157
-    }
-  }, {
-    "baseSequence": "nuccore://NW_008333818.1",
-    "name": "TRBJ17",
-    "geneType": "J",
-    "isFunctional": true,
-    "chains": [ "TRB" ],
-    "anchorPoints": {
-      "JBegin": 162167,
-      "FR4Begin": 162184,
-      "FR4End": 162221
     }
   }, {
     "baseSequence": "nuccore://NW_008333818.1",

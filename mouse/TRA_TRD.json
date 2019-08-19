@@ -1676,23 +1676,17 @@
       "VEnd": 1207933
     }
   }, {
-    "baseSequence": "nuccore://NG_007044.1",
-    "name": "TRAV13-3*00",
+    "baseSequence": "nuccore://NC_000080.6",
+    "name": "TRAV13-3",
     "geneType": "V",
-    "isFunctional": true,
+    "isFunctional": false,
     "chains": [ "TRA", "TRD" ],
     "anchorPoints": {
-      "UTR5Begin": 1301991,
-      "L1Begin": 1302091,
-      "VIntronBegin": 1302143,
-      "L2Begin": 1302324,
-      "FR1Begin": 1302332,
-      "CDR1Begin": 1302412,
-      "FR2Begin": 1302427,
-      "CDR2Begin": 1302478,
-      "FR3Begin": 1302496,
-      "CDR3Begin": 1302595,
-      "VEnd": 1302608
+      "UTR5Begin": 53729458,
+      "L1Begin": 53729557,
+      "VIntronBegin": 53729609,
+      "L2Begin": 53729790,
+      "VEnd": 53730074
     }
   }, {
     "baseSequence": "nuccore://NG_007044.1",

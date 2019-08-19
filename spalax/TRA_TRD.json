@@ -3,6 +3,63 @@
   "speciesNames": [ "spalax" ],
   "genes": [ {
     "baseSequence": "nuccore://NW_008340200.1",
+    "name": "TRAV1*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 145100,
+      "L1Begin": 145229,
+      "VIntronBegin": 145281,
+      "L2Begin": 145471,
+      "FR1Begin": 145479,
+      "CDR1Begin": 145560,
+      "FR2Begin": 145575,
+      "CDR2Begin": 145626,
+      "FR3Begin": 145641,
+      "CDR3Begin": 145740,
+      "VEnd": 145749
+    }
+  }, {
+    "baseSequence": "nuccore://NW_008340200.1",
+    "name": "TRAV2",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 14736,
+      "L1Begin": 14833,
+      "VIntronBegin": 14879,
+      "L2Begin": 14993,
+      "FR1Begin": 14995,
+      "CDR1Begin": 15067,
+      "FR2Begin": 15088,
+      "CDR2Begin": 15139,
+      "FR3Begin": 15160,
+      "CDR3Begin": 15259,
+      "VEnd": 15273
+    }
+  }, {
+    "baseSequence": "nuccore://NW_008340200.1",
+    "name": "TRAV3",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 27927,
+      "L1Begin": 27985,
+      "VIntronBegin": 28031,
+      "L2Begin": 28145,
+      "FR1Begin": 28147,
+      "CDR1Begin": 28219,
+      "FR2Begin": 28240,
+      "CDR2Begin": 28291,
+      "FR3Begin": 28312,
+      "CDR3Begin": 28411,
+      "VEnd": 28425
+    }
+  }, {
+    "baseSequence": "nuccore://NW_008340200.1",
     "name": "TRAV3-4*00",
     "geneType": "V",
     "isFunctional": true,
@@ -38,6 +95,25 @@
       "FR3Begin": 2554624,
       "CDR3Begin": 2554525,
       "VEnd": 2554512
+    }
+  }, {
+    "baseSequence": "nuccore://NW_008340200.1",
+    "name": "TRAV4",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 58303,
+      "L1Begin": 58466,
+      "VIntronBegin": 58512,
+      "L2Begin": 58618,
+      "FR1Begin": 58629,
+      "CDR1Begin": 58707,
+      "FR2Begin": 58725,
+      "CDR2Begin": 58776,
+      "FR3Begin": 58800,
+      "CDR3Begin": 58899,
+      "VEnd": 58913
     }
   }, {
     "baseSequence": "nuccore://NW_008340200.1",
@@ -154,6 +230,25 @@
       "VEnd": 17345
     }
   }, {
+    "baseSequence": "nuccore://NW_008343597.1",
+    "name": "TRAV5",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 2530023,
+      "L1Begin": 2529915,
+      "VIntronBegin": 2529863,
+      "L2Begin": 2529685,
+      "FR1Begin": 2529677,
+      "CDR1Begin": 2529599,
+      "FR2Begin": 2529587,
+      "CDR2Begin": 2529536,
+      "FR3Begin": 2529521,
+      "CDR3Begin": 2529422,
+      "VEnd": 2529409
+    }
+  }, {
     "baseSequence": "nuccore://NW_008340200.1",
     "name": "TRAV5-4*00",
     "geneType": "V",
@@ -228,6 +323,25 @@
       "FR3Begin": 2769774,
       "CDR3Begin": 2769675,
       "VEnd": 2769662
+    }
+  }, {
+    "baseSequence": "nuccore://NW_008343597.1",
+    "name": "TRAV6",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 2650591,
+      "L1Begin": 2650532,
+      "VIntronBegin": 2650483,
+      "L2Begin": 2650268,
+      "FR1Begin": 2650257,
+      "CDR1Begin": 2650179,
+      "FR2Begin": 2650158,
+      "CDR2Begin": 2650107,
+      "FR3Begin": 2650086,
+      "CDR3Begin": 2649987,
+      "VEnd": 2649970
     }
   }, {
     "baseSequence": "nuccore://NW_008343597.1",
@@ -323,6 +437,25 @@
       "FR3Begin": 119854,
       "CDR3Begin": 119953,
       "VEnd": 119967
+    }
+  }, {
+    "baseSequence": "nuccore://NW_008343597.1",
+    "name": "TRAV7",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 2682931,
+      "L1Begin": 2682796,
+      "VIntronBegin": 2682750,
+      "L2Begin": 2682648,
+      "FR1Begin": 2682631,
+      "CDR1Begin": 2682559,
+      "FR2Begin": 2682538,
+      "CDR2Begin": 2682487,
+      "FR3Begin": 2682466,
+      "CDR3Begin": 2682367,
+      "VEnd": 2682353
     }
   }, {
     "baseSequence": "nuccore://NW_008343597.1",
@@ -744,7 +877,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008330781.1",
-    "name": "TRAV15N-1",
+    "name": "TRAV15N-1*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA", "TRD" ],
@@ -877,7 +1010,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008343597.1",
-    "name": "TRAV20",
+    "name": "TRAV20*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "TRA", "TRD" ],
@@ -1046,17 +1179,6 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008343597.1",
-    "name": "TRAJ7",
-    "geneType": "J",
-    "isFunctional": true,
-    "chains": [ "TRA" ],
-    "anchorPoints": {
-      "JBegin": 2065560,
-      "FR4Begin": 2065530,
-      "FR4End": 2065500
-    }
-  }, {
-    "baseSequence": "nuccore://NW_008343597.1",
     "name": "TRAJ7*00",
     "geneType": "J",
     "isFunctional": true,
@@ -1068,7 +1190,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008343597.1",
-    "name": "TRAJ8",
+    "name": "TRAJ8*00",
     "geneType": "J",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -1123,17 +1245,6 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008343597.1",
-    "name": "TRAJ16",
-    "geneType": "J",
-    "isFunctional": true,
-    "chains": [ "TRA" ],
-    "anchorPoints": {
-      "JBegin": 2077533,
-      "FR4Begin": 2077507,
-      "FR4End": 2077477
-    }
-  }, {
-    "baseSequence": "nuccore://NW_008343597.1",
     "name": "TRAJ16*00",
     "geneType": "J",
     "isFunctional": true,
@@ -1156,7 +1267,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008343597.1",
-    "name": "TRAJ20",
+    "name": "TRAJ20*00",
     "geneType": "J",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -1233,7 +1344,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008343597.1",
-    "name": "TRAJ29",
+    "name": "TRAJ29*00",
     "geneType": "J",
     "isFunctional": true,
     "chains": [ "TRA" ],
@@ -1343,7 +1454,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008343597.1",
-    "name": "TRAJ42",
+    "name": "TRAJ41*00",
     "geneType": "J",
     "isFunctional": true,
     "chains": [ "TRA" ],
