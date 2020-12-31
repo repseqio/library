@@ -1,0 +1,1736 @@
+[ {
+  "taxonId": 9544,
+  "speciesNames": [ "mmul", "mulatta", "rhesus" ],
+  "genes": [ {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV1-1*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83517923,
+      "L1Begin": 83518022,
+      "VIntronBegin": 83518065,
+      "L2Begin": 83518402,
+      "FR1Begin": 83518410,
+      "CDR1Begin": 83518485,
+      "FR2Begin": 83518503,
+      "CDR2Begin": 83518554,
+      "FR3Begin": 83518572,
+      "CDR3Begin": 83518671,
+      "VEnd": 83518685
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV1-2*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83541929,
+      "L1Begin": 83542013,
+      "VIntronBegin": 83542056,
+      "L2Begin": 83542359,
+      "FR1Begin": 83542367,
+      "CDR1Begin": 83542442,
+      "FR2Begin": 83542460,
+      "CDR2Begin": 83542511,
+      "FR3Begin": 83542529,
+      "CDR3Begin": 83542628,
+      "VEnd": 83542642
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV2*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83618945,
+      "L1Begin": 83619031,
+      "VIntronBegin": 83619095,
+      "L2Begin": 83619268,
+      "FR1Begin": 83619279,
+      "CDR1Begin": 83619354,
+      "FR2Begin": 83619372,
+      "CDR2Begin": 83619423,
+      "FR3Begin": 83619435,
+      "CDR3Begin": 83619528,
+      "VEnd": 83619542
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV3*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83628547,
+      "L1Begin": 83628623,
+      "VIntronBegin": 83628669,
+      "L2Begin": 83628760,
+      "FR1Begin": 83628771,
+      "CDR1Begin": 83628849,
+      "FR2Begin": 83628867,
+      "CDR2Begin": 83628918,
+      "FR3Begin": 83628942,
+      "CDR3Begin": 83629041,
+      "VEnd": 83629055
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV4*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83640433,
+      "L1Begin": 83640510,
+      "VIntronBegin": 83640550,
+      "L2Begin": 83640989,
+      "FR1Begin": 83641000,
+      "CDR1Begin": 83641075,
+      "FR2Begin": 83641096,
+      "CDR2Begin": 83641147,
+      "FR3Begin": 83641162,
+      "CDR3Begin": 83641261,
+      "VEnd": 83641277
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV5*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83659407,
+      "L1Begin": 83659497,
+      "VIntronBegin": 83659549,
+      "L2Begin": 83659725,
+      "FR1Begin": 83659736,
+      "CDR1Begin": 83659811,
+      "FR2Begin": 83659829,
+      "CDR2Begin": 83659880,
+      "FR3Begin": 83659901,
+      "CDR3Begin": 83660000,
+      "VEnd": 83660013
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV6*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83669321,
+      "L1Begin": 83669423,
+      "VIntronBegin": 83669475,
+      "L2Begin": 83669663,
+      "FR1Begin": 83669671,
+      "CDR1Begin": 83669749,
+      "FR2Begin": 83669767,
+      "CDR2Begin": 83669818,
+      "FR3Begin": 83669839,
+      "CDR3Begin": 83669938,
+      "VEnd": 83669951
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV8-1*00",
+    "geneType": "V",
+    "isFunctional": false,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83692010,
+      "L1Begin": 83692132,
+      "VIntronBegin": 83692178,
+      "L2Begin": 83692305,
+      "FR1Begin": 83692316,
+      "CDR1Begin": 83692394,
+      "FR2Begin": 83692412,
+      "CDR2Begin": 83692463,
+      "FR3Begin": 83692487,
+      "CDR3Begin": 83692586,
+      "VEnd": 83692600
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV8-2*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83731735,
+      "L1Begin": 83731839,
+      "VIntronBegin": 83731885,
+      "L2Begin": 83732005,
+      "FR1Begin": 83732016,
+      "CDR1Begin": 83732094,
+      "FR2Begin": 83732112,
+      "CDR2Begin": 83732163,
+      "FR3Begin": 83732187,
+      "CDR3Begin": 83732286,
+      "VEnd": 83732300
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV8-3*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83780945,
+      "L1Begin": 83781030,
+      "VIntronBegin": 83781076,
+      "L2Begin": 83781205,
+      "FR1Begin": 83781216,
+      "CDR1Begin": 83781294,
+      "FR2Begin": 83781312,
+      "CDR2Begin": 83781363,
+      "FR3Begin": 83781387,
+      "CDR3Begin": 83781486,
+      "VEnd": 83781500
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV8-4*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83786510,
+      "L1Begin": 83786620,
+      "VIntronBegin": 83786666,
+      "L2Begin": 83786774,
+      "FR1Begin": 83786785,
+      "CDR1Begin": 83786863,
+      "FR2Begin": 83786881,
+      "CDR2Begin": 83786932,
+      "FR3Begin": 83786956,
+      "CDR3Begin": 83787055,
+      "VEnd": 83787069
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV8-5*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83862141,
+      "L1Begin": 83862249,
+      "VIntronBegin": 83862295,
+      "L2Begin": 83862396,
+      "FR1Begin": 83862407,
+      "CDR1Begin": 83862485,
+      "FR2Begin": 83862506,
+      "CDR2Begin": 83862557,
+      "FR3Begin": 83862581,
+      "CDR3Begin": 83862680,
+      "VEnd": 83862694
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV8-6*00",
+    "geneType": "V",
+    "isFunctional": false,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 84028131,
+      "L1Begin": 84028215,
+      "VIntronBegin": 84028268,
+      "L2Begin": 84028398,
+      "FR1Begin": 84028407,
+      "CDR1Begin": 84028488,
+      "FR2Begin": 84028506,
+      "CDR2Begin": 84028557,
+      "FR3Begin": 84028578,
+      "CDR3Begin": 84028677,
+      "VEnd": 84028690
+    }
+  }, {
+    "baseSequence": "nuccore://NW_021161507.1",
+    "name": "TRAV8-7*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 28092,
+      "L1Begin": 28163,
+      "VIntronBegin": 28209,
+      "L2Begin": 28347,
+      "FR1Begin": 28355,
+      "CDR1Begin": 28433,
+      "FR2Begin": 28451,
+      "CDR2Begin": 28502,
+      "FR3Begin": 28526,
+      "CDR3Begin": 28625,
+      "VEnd": 28639
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV9-1*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83705847,
+      "L1Begin": 83705936,
+      "VIntronBegin": 83705982,
+      "L2Begin": 83706117,
+      "FR1Begin": 83706128,
+      "CDR1Begin": 83706206,
+      "FR2Begin": 83706224,
+      "CDR2Begin": 83706275,
+      "FR3Begin": 83706296,
+      "CDR3Begin": 83706395,
+      "VEnd": 83706409
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV9-2*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83824576,
+      "L1Begin": 83824632,
+      "VIntronBegin": 83824678,
+      "L2Begin": 83824814,
+      "FR1Begin": 83824825,
+      "CDR1Begin": 83824903,
+      "FR2Begin": 83824921,
+      "CDR2Begin": 83824972,
+      "FR3Begin": 83824993,
+      "CDR3Begin": 83825092,
+      "VEnd": 83825106
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV10*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83719005,
+      "L1Begin": 83719084,
+      "VIntronBegin": 83719136,
+      "L2Begin": 83719361,
+      "FR1Begin": 83719372,
+      "CDR1Begin": 83719450,
+      "FR2Begin": 83719468,
+      "CDR2Begin": 83719519,
+      "FR3Begin": 83719540,
+      "CDR3Begin": 83719639,
+      "VEnd": 83719652
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV11-1*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83722996,
+      "L1Begin": 83723068,
+      "VIntronBegin": 83723120,
+      "L2Begin": 83723619,
+      "FR1Begin": 83723630,
+      "CDR1Begin": 83723708,
+      "FR2Begin": 83723726,
+      "CDR2Begin": 83723777,
+      "FR3Begin": 83723798,
+      "CDR3Begin": 83723897,
+      "VEnd": 83723907
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV11-3*00",
+    "geneType": "V",
+    "isFunctional": false,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83763696,
+      "L1Begin": 83763767,
+      "VIntronBegin": 83763819,
+      "L2Begin": 83763991,
+      "FR1Begin": 83764002,
+      "CDR1Begin": 83764080,
+      "FR2Begin": 83764098,
+      "CDR2Begin": 83764149,
+      "FR3Begin": 83764170,
+      "CDR3Begin": 83764269,
+      "VEnd": 83764279
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV12-1*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83726216,
+      "L1Begin": 83726316,
+      "VIntronBegin": 83726368,
+      "L2Begin": 83726567,
+      "FR1Begin": 83726581,
+      "CDR1Begin": 83726659,
+      "FR2Begin": 83726677,
+      "CDR2Begin": 83726728,
+      "FR3Begin": 83726743,
+      "CDR3Begin": 83726842,
+      "VEnd": 83726855
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV12-2*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83774353,
+      "L1Begin": 83774437,
+      "VIntronBegin": 83774489,
+      "L2Begin": 83774693,
+      "FR1Begin": 83774707,
+      "CDR1Begin": 83774782,
+      "FR2Begin": 83774800,
+      "CDR2Begin": 83774851,
+      "FR3Begin": 83774869,
+      "CDR3Begin": 83774968,
+      "VEnd": 83774981
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV12-3*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83849073,
+      "L1Begin": 83849161,
+      "VIntronBegin": 83849213,
+      "L2Begin": 83849427,
+      "FR1Begin": 83849441,
+      "CDR1Begin": 83849519,
+      "FR2Begin": 83849537,
+      "CDR2Begin": 83849588,
+      "FR3Begin": 83849606,
+      "CDR3Begin": 83849705,
+      "VEnd": 83849718
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV13-1*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83751818,
+      "L1Begin": 83751903,
+      "VIntronBegin": 83751952,
+      "L2Begin": 83752119,
+      "FR1Begin": 83752127,
+      "CDR1Begin": 83752205,
+      "FR2Begin": 83752223,
+      "CDR2Begin": 83752274,
+      "FR3Begin": 83752295,
+      "CDR3Begin": 83752394,
+      "VEnd": 83752407
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV13-2*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83800354,
+      "L1Begin": 83800410,
+      "VIntronBegin": 83800459,
+      "L2Begin": 83800620,
+      "FR1Begin": 83800631,
+      "CDR1Begin": 83800709,
+      "FR2Begin": 83800727,
+      "CDR2Begin": 83800778,
+      "FR3Begin": 83800799,
+      "CDR3Begin": 83800898,
+      "VEnd": 83800911
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV14-1*00",
+    "geneType": "V",
+    "isFunctional": false,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83759692,
+      "L1Begin": 83759753,
+      "VIntronBegin": 83759802,
+      "L2Begin": 83759965,
+      "VEnd": 83760259
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV14-2*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83806169,
+      "L1Begin": 83806290,
+      "VIntronBegin": 83806339,
+      "L2Begin": 83806503,
+      "FR1Begin": 83806514,
+      "CDR1Begin": 83806592,
+      "FR2Begin": 83806613,
+      "CDR2Begin": 83806664,
+      "FR3Begin": 83806688,
+      "CDR3Begin": 83806787,
+      "VEnd": 83806802
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV15*00",
+    "geneType": "V",
+    "isFunctional": false,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "L2Begin": 83833535,
+      "VEnd": 83833824
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV16*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83874058,
+      "L1Begin": 83874148,
+      "VIntronBegin": 83874194,
+      "L2Begin": 83874311,
+      "FR1Begin": 83874319,
+      "CDR1Begin": 83874397,
+      "FR2Begin": 83874415,
+      "CDR2Begin": 83874466,
+      "FR3Begin": 83874478,
+      "CDR3Begin": 83874577,
+      "VEnd": 83874591
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV17*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83883492,
+      "L1Begin": 83883579,
+      "VIntronBegin": 83883631,
+      "L2Begin": 83883777,
+      "FR1Begin": 83883785,
+      "CDR1Begin": 83883863,
+      "FR2Begin": 83883878,
+      "CDR2Begin": 83883929,
+      "FR3Begin": 83883950,
+      "CDR3Begin": 83884049,
+      "VEnd": 83884062
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV18*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83895745,
+      "L1Begin": 83895825,
+      "VIntronBegin": 83895871,
+      "L2Begin": 83896000,
+      "FR1Begin": 83896011,
+      "CDR1Begin": 83896089,
+      "FR2Begin": 83896107,
+      "CDR2Begin": 83896158,
+      "FR3Begin": 83896176,
+      "CDR3Begin": 83896275,
+      "VEnd": 83896289
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV19*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83898863,
+      "L1Begin": 83898968,
+      "VIntronBegin": 83899017,
+      "L2Begin": 83899219,
+      "FR1Begin": 83899230,
+      "CDR1Begin": 83899308,
+      "FR2Begin": 83899329,
+      "CDR2Begin": 83899380,
+      "FR3Begin": 83899404,
+      "CDR3Begin": 83899503,
+      "VEnd": 83899520
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV20*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83926730,
+      "L1Begin": 83926803,
+      "VIntronBegin": 83926855,
+      "L2Begin": 83927009,
+      "FR1Begin": 83927020,
+      "CDR1Begin": 83927098,
+      "FR2Begin": 83927116,
+      "CDR2Begin": 83927167,
+      "FR3Begin": 83927188,
+      "CDR3Begin": 83927281,
+      "VEnd": 83927294
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV21*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83937005,
+      "L1Begin": 83937116,
+      "VIntronBegin": 83937162,
+      "L2Begin": 83937362,
+      "FR1Begin": 83937373,
+      "CDR1Begin": 83937451,
+      "FR2Begin": 83937469,
+      "CDR2Begin": 83937520,
+      "FR3Begin": 83937541,
+      "CDR3Begin": 83937640,
+      "VEnd": 83937652
+    }
+  }, {
+    "baseSequence": "nuccore://NW_021160890.1",
+    "name": "TRAV22*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 5098,
+      "L1Begin": 5169,
+      "VIntronBegin": 5221,
+      "L2Begin": 5410,
+      "FR1Begin": 5418,
+      "CDR1Begin": 5496,
+      "FR2Begin": 5511,
+      "CDR2Begin": 5562,
+      "FR3Begin": 5577,
+      "CDR3Begin": 5676,
+      "VEnd": 5689
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV23-1*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83973340,
+      "L1Begin": 83973432,
+      "VIntronBegin": 83973484,
+      "L2Begin": 83973631,
+      "FR1Begin": 83973663,
+      "CDR1Begin": 83973741,
+      "FR2Begin": 83973759,
+      "CDR2Begin": 83973810,
+      "FR3Begin": 83973831,
+      "CDR3Begin": 83973930,
+      "VEnd": 83973943
+    }
+  }, {
+    "baseSequence": "nuccore://NW_021160890.1",
+    "name": "TRAV23-2*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 19588,
+      "L1Begin": 19670,
+      "VIntronBegin": 19722,
+      "L2Begin": 19869,
+      "FR1Begin": 19901,
+      "CDR1Begin": 19979,
+      "FR2Begin": 19997,
+      "CDR2Begin": 20048,
+      "FR3Begin": 20069,
+      "CDR3Begin": 20168,
+      "VEnd": 20181
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV24*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 84063862,
+      "L1Begin": 84063949,
+      "VIntronBegin": 84064004,
+      "L2Begin": 84064168,
+      "FR1Begin": 84064179,
+      "CDR1Begin": 84064257,
+      "FR2Begin": 84064275,
+      "CDR2Begin": 84064326,
+      "FR3Begin": 84064347,
+      "CDR3Begin": 84064446,
+      "VEnd": 84064456
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV25*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 84071124,
+      "L1Begin": 84071216,
+      "VIntronBegin": 84071262,
+      "L2Begin": 84071543,
+      "FR1Begin": 84071551,
+      "CDR1Begin": 84071629,
+      "FR2Begin": 84071644,
+      "CDR2Begin": 84071695,
+      "FR3Begin": 84071716,
+      "CDR3Begin": 84071815,
+      "VEnd": 84071824
+    }
+  }, {
+    "baseSequence": "nuccore://CM002991.3",
+    "name": "TRAV26-1*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83457095,
+      "L1Begin": 83457232,
+      "VIntronBegin": 83457278,
+      "L2Begin": 83457422,
+      "FR1Begin": 83457433,
+      "CDR1Begin": 83457508,
+      "FR2Begin": 83457529,
+      "CDR2Begin": 83457580,
+      "FR3Begin": 83457595,
+      "CDR3Begin": 83457694,
+      "VEnd": 83457710
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV26-2*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 84222655,
+      "L1Begin": 84222776,
+      "VIntronBegin": 84222825,
+      "L2Begin": 84223154,
+      "FR1Begin": 84223165,
+      "CDR1Begin": 84223240,
+      "FR2Begin": 84223261,
+      "CDR2Begin": 84223312,
+      "FR3Begin": 84223327,
+      "CDR3Begin": 84223423,
+      "VEnd": 84223438
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV27*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 84180225,
+      "L1Begin": 84180339,
+      "VIntronBegin": 84180385,
+      "L2Begin": 84180617,
+      "FR1Begin": 84180625,
+      "CDR1Begin": 84180703,
+      "FR2Begin": 84180718,
+      "CDR2Begin": 84180769,
+      "FR3Begin": 84180790,
+      "CDR3Begin": 84180889,
+      "VEnd": 84180899
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV29*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 84193783,
+      "L1Begin": 84193897,
+      "VIntronBegin": 84193949,
+      "L2Begin": 84194113,
+      "FR1Begin": 84194139,
+      "CDR1Begin": 84194217,
+      "FR2Begin": 84194235,
+      "CDR2Begin": 84194286,
+      "FR3Begin": 84194307,
+      "CDR3Begin": 84194406,
+      "VEnd": 84194419
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV30*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 84199500,
+      "L1Begin": 84199582,
+      "VIntronBegin": 84199634,
+      "L2Begin": 84199857,
+      "FR1Begin": 84199868,
+      "CDR1Begin": 84199943,
+      "FR2Begin": 84199958,
+      "CDR2Begin": 84200009,
+      "FR3Begin": 84200030,
+      "CDR3Begin": 84200129,
+      "VEnd": 84200142
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV32*00",
+    "geneType": "V",
+    "isFunctional": false,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 84212193,
+      "L1Begin": 84212283,
+      "VIntronBegin": 84212341,
+      "L2Begin": 84212493,
+      "FR1Begin": 84212502,
+      "CDR1Begin": 84212586,
+      "FR2Begin": 84212595,
+      "CDR2Begin": 84212646,
+      "FR3Begin": 84212667,
+      "CDR3Begin": 84212766,
+      "VEnd": 84212778
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV33*00",
+    "geneType": "V",
+    "isFunctional": false,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 84216750,
+      "L1Begin": 84216820,
+      "VIntronBegin": 84216869,
+      "L2Begin": 84217088,
+      "FR1Begin": 84217099,
+      "CDR1Begin": 84217177,
+      "FR2Begin": 84217198,
+      "CDR2Begin": 84217268,
+      "FR3Begin": 84217283,
+      "CDR3Begin": 84217366,
+      "VEnd": 84217382
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV34*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 84227490,
+      "L1Begin": 84227560,
+      "VIntronBegin": 84227612,
+      "L2Begin": 84227869,
+      "FR1Begin": 84227877,
+      "CDR1Begin": 84227955,
+      "FR2Begin": 84227970,
+      "CDR2Begin": 84228021,
+      "FR3Begin": 84228042,
+      "CDR3Begin": 84228141,
+      "VEnd": 84228154
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV35*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 84240443,
+      "L1Begin": 84240500,
+      "VIntronBegin": 84240546,
+      "L2Begin": 84240793,
+      "FR1Begin": 84240801,
+      "CDR1Begin": 84240879,
+      "FR2Begin": 84240894,
+      "CDR2Begin": 84240945,
+      "FR3Begin": 84240966,
+      "CDR3Begin": 84241065,
+      "VEnd": 84241077
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV36*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 84245230,
+      "L1Begin": 84245350,
+      "VIntronBegin": 84245402,
+      "L2Begin": 84245555,
+      "FR1Begin": 84245566,
+      "CDR1Begin": 84245644,
+      "FR2Begin": 84245662,
+      "CDR2Begin": 84245710,
+      "FR3Begin": 84245731,
+      "CDR3Begin": 84245830,
+      "VEnd": 84245843
+    }
+  }, {
+    "baseSequence": "nuccore://CM002991.3",
+    "name": "TRAV37*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83579521,
+      "L1Begin": 83579688,
+      "VIntronBegin": 83579740,
+      "L2Begin": 83579936,
+      "FR1Begin": 83579947,
+      "CDR1Begin": 83580025,
+      "FR2Begin": 83580043,
+      "CDR2Begin": 83580094,
+      "FR3Begin": 83580115,
+      "CDR3Begin": 83580214,
+      "VEnd": 83580223
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV38-1*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 84282266,
+      "L1Begin": 84282336,
+      "VIntronBegin": 84282385,
+      "L2Begin": 84282621,
+      "FR1Begin": 84282632,
+      "CDR1Begin": 84282710,
+      "FR2Begin": 84282731,
+      "CDR2Begin": 84282782,
+      "FR3Begin": 84282806,
+      "CDR3Begin": 84282905,
+      "VEnd": 84282922
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV38-2*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 84291732,
+      "L1Begin": 84291822,
+      "VIntronBegin": 84291871,
+      "L2Begin": 84292120,
+      "FR1Begin": 84292131,
+      "CDR1Begin": 84292209,
+      "FR2Begin": 84292230,
+      "CDR2Begin": 84292281,
+      "FR3Begin": 84292305,
+      "CDR3Begin": 84292404,
+      "VEnd": 84292420
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV39*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 84315412,
+      "L1Begin": 84315480,
+      "VIntronBegin": 84315523,
+      "L2Begin": 84315692,
+      "FR1Begin": 84315703,
+      "CDR1Begin": 84315781,
+      "FR2Begin": 84315796,
+      "CDR2Begin": 84315847,
+      "FR3Begin": 84315868,
+      "CDR3Begin": 84315967,
+      "VEnd": 84315980
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV40*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 84326394,
+      "L1Begin": 84326489,
+      "VIntronBegin": 84326532,
+      "L2Begin": 84326642,
+      "FR1Begin": 84326653,
+      "CDR1Begin": 84326728,
+      "FR2Begin": 84326746,
+      "CDR2Begin": 84326797,
+      "FR3Begin": 84326809,
+      "CDR3Begin": 84326902,
+      "VEnd": 84326916
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV41*00",
+    "geneType": "V",
+    "isFunctional": true,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 84332770,
+      "L1Begin": 84332856,
+      "VIntronBegin": 84332908,
+      "L2Begin": 84333077,
+      "FR1Begin": 84333091,
+      "CDR1Begin": 84333169,
+      "FR2Begin": 84333184,
+      "CDR2Begin": 84333235,
+      "FR3Begin": 84333250,
+      "CDR3Begin": 84333349,
+      "VEnd": 84333361
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAV46*00",
+    "geneType": "V",
+    "isFunctional": false,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 84411327,
+      "L1Begin": 84411399,
+      "VIntronBegin": 84411451,
+      "L2Begin": 84411515,
+      "VEnd": 84411803
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAVA*00",
+    "geneType": "V",
+    "isFunctional": false,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83686083,
+      "L1Begin": 83686151,
+      "VIntronBegin": 83686197,
+      "L2Begin": 83686323,
+      "VEnd": 83686616
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAVB*00",
+    "geneType": "V",
+    "isFunctional": false,
+    "chains": [ "TRA", "TRD" ],
+    "anchorPoints": {
+      "UTR5Begin": 83744126,
+      "L1Begin": 83744234,
+      "VIntronBegin": 83744286,
+      "L2Begin": 83744500,
+      "VEnd": 83744778
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ1*00",
+    "geneType": "J",
+    "isFunctional": false,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84559087,
+      "FR4Begin": 84559118,
+      "FR4End": 84559149
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ2*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84558124,
+      "FR4Begin": 84558157,
+      "FR4End": 84558188
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ3*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84557552,
+      "FR4Begin": 84557583,
+      "FR4End": 84557614
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ4*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84556585,
+      "FR4Begin": 84556617,
+      "FR4End": 84556648
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ5*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84555033,
+      "FR4Begin": 84555060,
+      "FR4End": 84555091
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ6*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84553858,
+      "FR4Begin": 84553889,
+      "FR4End": 84553920
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ7*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84552413,
+      "FR4Begin": 84552439,
+      "FR4End": 84552470
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ8*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84550942,
+      "FR4Begin": 84550969,
+      "FR4End": 84551000
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ9*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84550346,
+      "FR4Begin": 84550376,
+      "FR4End": 84550407
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ10*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84548387,
+      "FR4Begin": 84548420,
+      "FR4End": 84548451
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ11*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84547392,
+      "FR4Begin": 84547419,
+      "FR4End": 84547450
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ12*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84546828,
+      "FR4Begin": 84546857,
+      "FR4End": 84546888
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ13*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84545972,
+      "FR4Begin": 84546002,
+      "FR4End": 84546033
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ14*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84545203,
+      "FR4Begin": 84545229,
+      "FR4End": 84545260
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ15*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84544510,
+      "FR4Begin": 84544539,
+      "FR4End": 84544570
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ16*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84543392,
+      "FR4Begin": 84543421,
+      "FR4End": 84543452
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ17*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84542010,
+      "FR4Begin": 84542042,
+      "FR4End": 84542073
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ18*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84540816,
+      "FR4Begin": 84540851,
+      "FR4End": 84540882
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ19*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84540429,
+      "FR4Begin": 84540458,
+      "FR4End": 84540489
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ20*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84539503,
+      "FR4Begin": 84539529,
+      "FR4End": 84539560
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ21*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84538791,
+      "FR4Begin": 84538815,
+      "FR4End": 84538846
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ22*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84537238,
+      "FR4Begin": 84537270,
+      "FR4End": 84537301
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ23*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84535616,
+      "FR4Begin": 84535646,
+      "FR4End": 84535677
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ24*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84535186,
+      "FR4Begin": 84535216,
+      "FR4End": 84535247
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ25*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84534009,
+      "FR4Begin": 84534038,
+      "FR4End": 84534069
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ26*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84533640,
+      "FR4Begin": 84533669,
+      "FR4End": 84533700
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ27*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84531458,
+      "FR4Begin": 84531486,
+      "FR4End": 84531517
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ28*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84530808,
+      "FR4Begin": 84530843,
+      "FR4End": 84530874
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ29*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84529457,
+      "FR4Begin": 84529486,
+      "FR4End": 84529517
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ30*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84528372,
+      "FR4Begin": 84528396,
+      "FR4End": 84528427
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ31*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84526492,
+      "FR4Begin": 84526518,
+      "FR4End": 84526549
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ32*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84524871,
+      "FR4Begin": 84524906,
+      "FR4End": 84524937
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ33*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84524136,
+      "FR4Begin": 84524162,
+      "FR4End": 84524193
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ34*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84523135,
+      "FR4Begin": 84523162,
+      "FR4End": 84523193
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ35*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84522114,
+      "FR4Begin": 84522142,
+      "FR4End": 84522173
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ36*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84520570,
+      "FR4Begin": 84520598,
+      "FR4End": 84520629
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ37*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84519521,
+      "FR4Begin": 84519550,
+      "FR4End": 84519581
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ38*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84517999,
+      "FR4Begin": 84518030,
+      "FR4End": 84518061
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ39*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84517374,
+      "FR4Begin": 84517406,
+      "FR4End": 84517437
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ40*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84515443,
+      "FR4Begin": 84515473,
+      "FR4End": 84515504
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ41*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84513412,
+      "FR4Begin": 84513443,
+      "FR4End": 84513474
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ42*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84512641,
+      "FR4Begin": 84512676,
+      "FR4End": 84512707
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ43*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84511660,
+      "FR4Begin": 84511683,
+      "FR4End": 84511714
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ44*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84510565,
+      "FR4Begin": 84510597,
+      "FR4End": 84510628
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ45*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84509669,
+      "FR4Begin": 84509704,
+      "FR4End": 84509735
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ46*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84509147,
+      "FR4Begin": 84509179,
+      "FR4End": 84509210
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ47*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84508591,
+      "FR4Begin": 84508617,
+      "FR4End": 84508648
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ48*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84506672,
+      "FR4Begin": 84506704,
+      "FR4End": 84506735
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ49*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84505679,
+      "FR4Begin": 84505704,
+      "FR4End": 84505735
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ50*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84504798,
+      "FR4Begin": 84504827,
+      "FR4End": 84504858
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ51*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84503383,
+      "FR4Begin": 84503415,
+      "FR4End": 84503446
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ52*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84502431,
+      "FR4Begin": 84502469,
+      "FR4End": 84502500
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ53*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84499217,
+      "FR4Begin": 84499252,
+      "FR4End": 84499283
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ54*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84498479,
+      "FR4Begin": 84498511,
+      "FR4End": 84498542
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ55*00",
+    "geneType": "J",
+    "isFunctional": false,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84497883,
+      "FR4Begin": 84497909,
+      "FR4End": 84497940
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ56*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84495698,
+      "FR4Begin": 84495729,
+      "FR4End": 84495760
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ57*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84495035,
+      "FR4Begin": 84495067,
+      "FR4End": 84495098
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ58*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84493863,
+      "FR4Begin": 84493895,
+      "FR4End": 84493926
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ59*00",
+    "geneType": "J",
+    "isFunctional": false,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84492725,
+      "FR4End": 84492784
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ60*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84492478,
+      "FR4Begin": 84492504,
+      "FR4End": 84492535
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAJ61*00",
+    "geneType": "J",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "JBegin": 84491485,
+      "FR4Begin": 84491514,
+      "FR4End": 84491545
+    }
+  }, {
+    "baseSequence": "nuccore://NC_041760.1",
+    "name": "TRAC*00",
+    "geneType": "C",
+    "isFunctional": true,
+    "chains": [ "TRA" ],
+    "anchorPoints": {
+      "CBegin": 84561540,
+      "CExon1End": 84561813,
+      "CEnd": 84561813
+    }
+  } ]
+} ]
