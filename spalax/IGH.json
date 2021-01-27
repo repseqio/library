@@ -60,7 +60,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008328145.1",
-    "name": "IGHV1-3*00",
+    "name": "IGHV1-4*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "IGH" ],
@@ -79,7 +79,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008346116.1",
-    "name": "IGHV1-4*00",
+    "name": "IGHV1-5*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "IGH" ],
@@ -98,7 +98,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008328145.1",
-    "name": "IGHV1-4*00",
+    "name": "IGHV1-6*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "IGH" ],
@@ -117,7 +117,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008346116.1",
-    "name": "IGHV1-5*00",
+    "name": "IGHV1-7*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "IGH" ],
@@ -136,7 +136,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008329319.1",
-    "name": "IGHV1-5*00",
+    "name": "IGHV1-8*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "IGH" ],
@@ -155,7 +155,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008330576.1",
-    "name": "IGHV1-6*00",
+    "name": "IGHV1-9*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "IGH" ],
@@ -174,7 +174,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008328145.1",
-    "name": "IGHV1-7*00",
+    "name": "IGHV1-10*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "IGH" ],
@@ -193,7 +193,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008346116.1",
-    "name": "IGHV1-8*00",
+    "name": "IGHV1-11*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "IGH" ],
@@ -212,7 +212,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008331155.1",
-    "name": "IGHV1-8*00",
+    "name": "IGHV1-12*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "IGH" ],
@@ -231,7 +231,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008331155.1",
-    "name": "IGHV1-9*00",
+    "name": "IGHV1-13*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "IGH" ],
@@ -250,7 +250,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008331155.1",
-    "name": "IGHV1-10*00",
+    "name": "IGHV1-14*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "IGH" ],
@@ -269,7 +269,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008346058.1",
-    "name": "IGHV1-11*00",
+    "name": "IGHV1-15*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "IGH" ],
@@ -1096,7 +1096,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008328145.1",
-    "name": "IGHV6-1*00",
+    "name": "IGHV6-2*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "IGH" ],
@@ -1115,7 +1115,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008328145.1",
-    "name": "IGHV6-2*00",
+    "name": "IGHV6-3*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "IGH" ],
@@ -1134,7 +1134,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008341479.1",
-    "name": "IGHV6-2*00",
+    "name": "IGHV6-4*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "IGH" ],
@@ -1153,7 +1153,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008341479.1",
-    "name": "IGHV6-3*00",
+    "name": "IGHV6-5*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "IGH" ],
@@ -1172,7 +1172,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008341479.1",
-    "name": "IGHV6-4*00",
+    "name": "IGHV6-6*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "IGH" ],
@@ -1191,7 +1191,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008341479.1",
-    "name": "IGHV6-5*00",
+    "name": "IGHV6-7*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "IGH" ],
@@ -1210,7 +1210,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008341479.1",
-    "name": "IGHV6-6*00",
+    "name": "IGHV6-8*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "IGH" ],
@@ -1267,7 +1267,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008328145.1",
-    "name": "IGHV8-1*00",
+    "name": "IGHV8-2*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "IGH" ],
@@ -1286,7 +1286,7 @@
     }
   }, {
     "baseSequence": "nuccore://NW_008328145.1",
-    "name": "IGHV8-2*00",
+    "name": "IGHV8-3*00",
     "geneType": "V",
     "isFunctional": true,
     "chains": [ "IGH" ],
